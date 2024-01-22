@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from urllib.parse import unquote
 import os
+import pandas as pd
 
 # # static route for check without hit 
 # url = "https://driverbase.com/inventory/location/dallas-tx"
@@ -173,6 +174,11 @@ for vehicleDetails in table_array:
     # Open the file for writing
     # #######check for output txt 
     # with open("output.txt", "a", encoding="utf-8") as file:
+        
+        
+    # topics_dictionary = {
+
+    # }
     with open(f"{location}"+".txt", "a", encoding="utf-8") as file:
         # Iterate over each <tr> element
         file.write(f"{image_list}\n")
