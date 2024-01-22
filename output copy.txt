@@ -1,0 +1,72 @@
+<table class="table table-hover" id="sort" style="padding-left:0px;">
+<thead style="display:none">
+<th>Detail</th>
+<th>Value</th>
+</thead>
+<tbody>
+<tr>
+<td width="50%">Type:</td>
+<td>Preowned</td>
+</tr>
+<tr>
+<td>Make:</td>
+<td>Jeep</td>
+</tr>
+<tr>
+<td>Model:</td>
+<td>Wrangler</td>
+</tr>
+<tr>
+<td>Trim:</td>
+<td>Sport S 4x4</td>
+</tr>
+<tr>
+<td>Odometer:</td>
+<td>21,242 Miles</td>
+</tr>
+<tr>
+<td>Model #:</td>
+<td></td>
+</tr>
+<tr>
+<td>VIN #:</td>
+<td>1C4HJXDG5LW167729 <a href="https://vinrcl.safercar.gov/vin/?vin=1C4HJXDG5LW167729" rel="“noopener”" target="_blank">[check for recalls]</a> </td>
+</tr>
+<tr>
+<td>Stock #:</td>
+<td>6912</td>
+</tr>
+<tr>
+<td>Engine:</td>
+<td>3.6 L 6 Cylinders</td>
+</tr>
+<tr>
+<td>Transmission:</td>
+<td>8 Automatic</td>
+</tr>
+<tr>
+<td>Body Type:</td>
+<td>Full Size SUV</td>
+</tr>
+<tr>
+<td>Fuel:</td>
+<td>Gas</td>
+</tr>
+<tr>
+<td>Drive:</td>
+<td>4WD</td>
+</tr>
+<tr>
+<td>Miles Per Gallon (City):</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Miles Per Gallon (Highway):</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Exterior Color:</td>
+<td>Red</td>
+</tr>
+</tbody>
+</table>

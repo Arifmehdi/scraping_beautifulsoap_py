@@ -1,0 +1,45 @@
+<table>
+    <tr>
+        <td colspan="3"><b>Enter Loan Information:</b></td>
+    </tr>
+    <tr>
+        <td>1)</td>
+        <td>Amount of the loan (USD):</td>
+        <td><input name="principal" onchange="calculate();" size="12" type="text" value="33400" /></td>
+    </tr>
+    <tr>
+        <td>2)</td>
+        <td>Annual percentage rate of interest:</td>
+        <td><input name="interest" onchange="calculate();" size="12" type="text" value="4.9" /></td>
+    </tr>
+    <tr>
+        <td>3)</td>
+        <td>Repayment period in years:</td>
+        <td><input name="years" onchange="calculate();" size="12" type="text" value="6" /></td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <input onclick="calculate();" type="button" value="Compute" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <b>Payment Information:</b>
+        </td>
+    </tr>
+    <tr>
+        <td>4)</td>
+        <td>Your monthly payment will be:</td>
+        <td><input name="payment" size="12" type="text" /></td>
+    </tr>
+    <tr>
+        <td>5)</td>
+        <td>Your total payment will be:</td>
+        <td><input name="total" size="12" type="text" /></td>
+    </tr>
+    <tr>
+        <td>6)</td>
+        <td>Your total interest payments will be:</td>
+        <td><input name="totalinterest" size="12" type="text" /></td>
+    </tr>
+</table>
