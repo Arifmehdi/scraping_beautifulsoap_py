@@ -1,0 +1,2653 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>ACURA for Sale Near Austin, TX (with Photos) - Buy a Car - Driverbase</title>
+<meta content="Shop the best ACURA for sale near Austin, TX. Search 104 listings to find the best ACURA prices near Austin, TX. Research, decide, buy, own and sell with Driverbase." name="description"/>
+<meta content="used cars, used cars for sale, cars, cars for sale, new cars, Driverbase, prices, repairs, reviews, photos, USA, united states" name="keywords"/>
+<meta content="website" property="og:type"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="752937378510014" property="fb:app_id"/>
+<meta content="2077594145859240" property="fb:page_id"/>
+<meta content="Driverbase.com" property="og:site_name"/>
+<meta content="ACURA for Sale Near Austin, TX (with Photos) - Buy a Car - Driverbase" property="og:title"/>
+<meta content="Shop the best ACURA for sale near Austin, TX. Search 104 listings to find the best ACURA prices near Austin, TX. Research, decide, buy, own and sell with Driverbase." property="og:description"/>
+<meta content="https://driverbase.com/inventory/search/austin-tx/acura" property="og:url"/>
+<meta content="https://cdn.getauto.com/photos/9/237439/1c/5J8TC1H63NL006255-1c.jpg" property="og:image"/>
+<meta content="ACURA for Sale Near Austin, TX (with Photos) - Buy a Car - Driverbase" name="twitter:title"/>
+<meta content="Shop the best ACURA for sale near Austin, TX. Search 104 listings to find the best ACURA prices near Austin, TX. Research, decide, buy, own and sell with Driverbase." name="twitter:description"/>
+<meta content="https://cdn.getauto.com/photos/9/237439/1c/5J8TC1H63NL006255-1c.jpg" property="twitter:image"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="82b91216bdf6c2580e436f470aa62272" name="p:domain_verify"/>
+<link href="/public/css/bootstrap-3.3.6.min.css" rel="stylesheet" type="text/css"/>
+<link href="/public/css/db.17.css" rel="stylesheet" type="text/css"/>
+<script src="/public/js/jquery-2.2.4.min.js"></script>
+<script src="/public/js/jquery.touchSwipe.min.js"></script>
+<script>
+      $(document).ready(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+
+        
+        const currencyElementsWithDecimal = AutoNumeric.multiple(
+          ".numeric_input_cash_with_decimal",
+          {
+            currencySymbol: "$",
+          }
+        );
+
+        const currencyIntElements = AutoNumeric.multiple(
+          ".numeric_input_cash_no_decimal",
+          {
+            currencySymbol: "$",
+            decimalPlaces: 0,
+            minimumValue: "0",
+            maximumValue: "9999999999999999",
+          }
+        );
+
+        const intElements = AutoNumeric.multiple(".numeric_input_no_decimal", {
+          decimalPlaces: 0,
+          minimumValue: "0",
+          maximumValue: "9999999999999999",
+        });
+
+        const yearElements = AutoNumeric.multiple(".numeric_input_year", {
+          decimalPlaces: 0,
+          minimumValue: "0",
+          maximumValue: "9999",
+          digitGroupSeparator: "",
+        });
+
+        const zipElements = AutoNumeric.multiple(".numeric_input_zip", {
+          decimalPlaces: 0,
+          leadingZero: AutoNumeric.options.leadingZero.keep,
+          maximumValue: "99999",
+          digitGroupSeparator: "",
+        });
+        
+
+        
+        $(".saveScrollPostion").on("click", function (e) {
+          var currentYOffset = window.pageYOffset; 
+          Cookies.set("jumpToScrollPostion", currentYOffset);
+        });
+
+        
+        if (Cookies.get("jumpToScrollPostion") !== "undefined") {
+          var jumpTo = Cookies.get("jumpToScrollPostion");
+          window.scrollTo(0, jumpTo);
+          Cookies.remove("jumpToScrollPostion"); 
+        }
+      });
+    </script>
+<script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MT6FGPV");
+    </script>
+<script data-cfasync="false" data-no-optimize="1">
+        (function(w, d) {
+            w.adthrive = w.adthrive || {};
+            w.adthrive.cmd = w.
+            adthrive.cmd || [];
+            w.adthrive.plugin = 'adthrive-ads-manual';
+            w.adthrive.host = 'ads.adthrive.com';var s = d.createElement('script');
+            s.async = true;
+            s.referrerpolicy='no-referrer-when-downgrade';
+            s.src = 'https://' + w.adthrive.host + '/sites/6408f4fd7c8bce696b16c561/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + '&cb=' + (Math.floor(Math.random() * 100) + 1);
+            var n = d.getElementsByTagName('script')[0];
+            n.parentNode.insertBefore(s, n);
+        })(window, document);
+        </script>
+</head>
+<body>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MT6FGPV" style="display: none; visibility: hidden" width="0"></iframe></noscript>
+</body>
+</html>
+<nav class="navbar navbar-default slimnav navbar-fixed-top">
+<div align="center">
+<small>
+<a href="/inventory/new">New<span class="hidden-xs"> Cars</span></a> -
+              <a href="/inventory/used">Used<span class="hidden-xs"> Cars</span></a> -
+              <a href="/inventory/bodystyle/sedan">Sedans</a> -
+              <a href="/inventory/bodystyle/full-size-suv">SUVs</a> -
+              <a href="/inventory/bodystyle/pickup-truck">Trucks</a><span class="hidden-xs"> -</span>
+<span class="hidden-xs"><a href="/inventory/bodystyle/station-wagon">Wagons</a> -
+              <a href="/inventory/bodystyle/supercar">Supercars</a><span class="hidden-xs"> -</span>
+<a href="/inventory/propulsion/electric">Electric</a> -</span>
+<span class="hidden-xs"><a href="/inventory/propulsion/hybrid">Hybrid</a> -
+              <a href="/inventory/propulsion/gas">Gas</a> -
+              <a href="/inventory/propulsion/diesel">Diesel</a></span>
+</small>
+</div>
+<div class="container-fluid bg-color">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target="#myNavbar" data-toggle="collapse" style="border:0px" type="button">
+<span class="icon-bar" style="border:1px solid #3083f2;"></span>
+<span class="icon-bar" style="border:1px solid #3083f2;"></span>
+<span class="icon-bar" style="border:1px solid #3083f2;width:70%;float:right;"></span>
+</button>
+<a class="navbar-nav hidden-xs" href="/"><p style="color:white;padding-top:10px;margin-top:10px;padding-bottom:12px;margin-bottom:12px; font-size: 24px; font-weight: 500; line-height: 26.4px;">Driverbase<sup style="top:-.4em;"><small style="color:#2b7cb1;padding-top:0px;margin-top:0px;font-size: 12px;"> ®</small></sup></p></a>
+<a class="navbar-nav visible-xs" href="/"><p style="color:white;padding-left:25px;padding-top:10px;font-size: 24px; font-weight: 500; line-height: 26.4px;">Driverbase<sup style="top:-.4em;"><small style="color:#2b7cb1;padding-top:0px;margin-top:0px;font-size: 12px;"> ®</small></sup></p></a>
+</div>
+<div class="collapse navbar-collapse" id="myNavbar" style="padding-top:10px;">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="/recommendation/step1">What Car Should I Buy?</a></li>
+<li><a href="/sell">What is My Car Worth?</a></li>
+<li><a href="/inventory">Cars for Sale</a></li>
+<li><a href="/best-car-ratings">Car Reviews</a></li>
+<li><a href="/products">Products</a></li>
+<li><a href="/about">About</a></li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="/user/settings"><span class="glyphicon glyphicon-user"></span> Login<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="dropdown-header" style="padding-top:20px;">Manage your Account</li>
+<li><a href="/login"><span><span class="glyphicon glyphicon-log-in"></span> Login</span></a></li>
+<li class="dropdown-header" style="padding-top:20px;">Create Driver Garage</li>
+<li><a href="/user/register"><span><span class="glyphicon glyphicon-plus"></span> Sign up</span></a></li>
+<li class="dropdown-header" style="padding-top:20px;">Create Dealer Account</li>
+<li><a href="/dealers/console/register"><span><span class="glyphicon glyphicon-plus"></span> Sign up</span></a></li>
+<li style="padding-bottom:20px;"><a href="/pricing"><span><span class="glyphicon glyphicon-th-list"></span> Plans &amp; Pricing</span></a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+</nav>
+<div id="content">
+<span class="visible-lg visible-md visible-sm" style="margin-top:58px"></span>
+<span class="visible-xs" style="margin-top:30px"></span>
+<div align="center" class="container col-sm-12 col-md-12 col-lg-12 mt-12">
+
+
+</div>
+<link href="/public/css/spin.css" rel="stylesheet" type="text/css"/>
+<link href="https://driverbase.com/inventory/search/austin-tx/acura" rel="canonical"/>
+<header>
+<div class="container-fluid" style="padding-left:0px;padding-right:0px;margin-left:0px;margin-right:0px;">
+<form action="/inventory" id="vlp_form" method="GET">
+<div class="row well" style="padding-top:0px;padding-left:7px;padding-right:7px;margin-left:0px;margin-right:0px;background-color:transparent;border:none;box-shadow:none;">
+<ul aria-label="Breadcrumb" class="breadcrumb small" itemscope="" itemtype="https://schema.org/BreadcrumbList" style="padding-top:25px;padding-bottom:0px;padding-right:0px;padding-left:0px;margin-bottom:0px;background-color:transparent;">
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="https://driverbase.com" itemprop="item"><span itemprop="name">Home</span></a><meta content="1" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="/inventory" itemprop="item"><span itemprop="name">Cars for Sale</span></a><meta content="2" itemprop="position"/></li>
+<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a href="/inventory/new-and-used/acura" itemprop="item"><span itemprop="name">ACURA</span></a><meta content="4" itemprop="position"/></li>
+<li aria-current="page" class="active" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="name">Search Results</span><meta content="6" itemprop="position"/></li>
+</ul>
+<h1 class="col-xs-12 col-sm-6 mainsubtitle" style="padding-left:0px;padding-right:0px;">ACURA for Sale Near Austin, TX</h1>
+<span class="visible-xs row">
+<div class="col-xs-12"><a class="btn navbar-btn btn-primary btn-block square" href="/recommendation/step1">What car are you?  Take the quiz.</a></div>
+</span>
+<div class="navbar" style="margin-top:0px;margin-bottom:5px;padding-bottom:5px;">
+<div class="container-fluid col-xs-6" style="padding-left:0px;padding-right:3px;margin-left:0px;margin-right:0px;">
+<span class="visible-xs btn btn-default navbar-btn btn-block" data-target="#filter-sidebar" data-toggle="collapse" style="margin-top:0px;margin-bottom:0px;">
+<span class="glyphicon glyphicon-cog"></span> Filter Vehicles
+        </span>
+</div>
+<div class="container-fluid col-xs-6 col-sm-2 pull-right" style="padding-left:3px;padding-right:0px;margin-left:0px;margin-right:0px;">
+<div class="form-group" style="margin-top:0px;margin-bottom:0px;">
+<label class="filter-col meta hidden-xs pull-right" for="pref-orderby" style="margin-right:0;">Order by:</label>
+<select class="form-control" id="sort_type_select" name="search.SortTypeId" onchange="handleNewSearchSubmit_NonButton()" style="border-radius:0px;text-align:center;">
+<option class="option_search.SortTypeId" id="option_search.SortTypeId_Price Low to High" value="1">Price Low to High</option>
+<option class="option_search.SortTypeId" id="option_search.SortTypeId_Price High to Low" value="2">Price High to Low</option>
+<option class="option_search.SortTypeId" id="option_search.SortTypeId_Distance Near to Far" selected="" value="3">Distance Near to Far</option>
+<option class="option_search.SortTypeId" id="option_search.SortTypeId_Mileage Low to High" value="5">Mileage Low to High</option>
+<option class="option_search.SortTypeId" id="option_search.SortTypeId_Mileage High to Low" value="6">Mileage High to Low</option>
+<option class="option_search.SortTypeId" id="option_search.SortTypeId_MPG High to Low" value="7">MPG High to Low</option>
+</select>
+</div>
+</div>
+</div>
+<div class="col-sm-3 visible-sm visible-md visible-lg collapse sliding-sidebar" id="filter-sidebar" style="padding-left:0px;padding-right:0px;margin-left:0px;margin-right:0px;">
+<span class="hidden-xs">
+<div class="col-xs-12" style="margin-bottom:5px;"><a class="btn btn-primary btn-block square" href="/recommendation/step1">What car are you?  Take the quiz.</a></div>
+</span>
+<input class="form-control" id="select_manufacturer" name="search.DealershipId" type="hidden" value="0"/>
+<div class="form-group">
+<label class="col-sm-3 control-label text-nowrap" for="search.Zip">Zip:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="select zip code for car search" src="/public/img/icn/pin-3.png" width="15px"/></span>
+<input class="form-control db-form-control numeric_input_zip" id="select_zip" name="search.Zip" type="text" value="78702">
+</input></div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3" for="search.DistanceFromZip">Radius:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="select vehicle search radius" src="/public/img/icn/world-pin.png" width="15px"/></span>
+<select class="form-control" id="select_radius" name="search.DistanceFromZip" style="width: 100%;">
+<option class="option_search.DistanceFromZip" id="option_search.DistanceFromZip_10" value="10">10</option>
+<option class="option_search.DistanceFromZip" id="option_search.DistanceFromZip_25" value="25">25</option>
+<option class="option_search.DistanceFromZip" id="option_search.DistanceFromZip_50" value="50">50</option>
+<option class="option_search.DistanceFromZip" id="option_search.DistanceFromZip_100" selected="" value="100">100</option>
+<option class="option_search.DistanceFromZip" id="option_search.DistanceFromZip_200" value="200">200</option>
+<option class="option_search.DistanceFromZip" id="option_search.DistanceFromZip_500" value="500">500</option>
+<option class="option_search.DistanceFromZip" id="option_search.DistanceFromZip_Nationwide" value="Nationwide">Nationwide</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3" for="search.InventoryType">New/Used:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="select new used or all vehicles for sale" src="/public/img/icn/zoom.png" width="15px"/></span>
+<select class="form-control" id="select_inventoryType" name="search.InventoryType" style="width: 100%">
+<option selected="true" value="all">All</option>
+<option class="option_search.InventoryType" id="option_search.InventoryType_New" value="new">New</option>
+<option class="option_search.InventoryType" id="option_search.InventoryType_Used" value="used">Used</option>
+<option class="option_search.InventoryType" id="option_search.InventoryType_Certified Pre-Owned" value="certified">Certified Pre-Owned</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3" for="search.MakeId">Make:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="search by vehicle make" src="/public/img/icn/office.png" width="15px"/></span>
+<select class="form-control select_make" name="search.MakeId" style="width: 100%">
+<option selected="true" value="0">All Makes</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ACURA" selected="" value="333">ACURA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_AIRSTREAM" value="7303">AIRSTREAM</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ALFA CARGO LLC" value="10570">ALFA CARGO LLC</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ALFA ROMEO" value="956">ALFA ROMEO</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ALL ALUMINUM STRUCTURE" value="11428">ALL ALUMINUM STRUCTURE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ALPINE" value="7138">ALPINE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_AMERICAN IRONHORSE MOTORCYCLES" value="6776">AMERICAN IRONHORSE MOTORCYCLES</option>
+<option class="option_search.MakeId" id="option_search.MakeId_APRILIA" value="1373">APRILIA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ARISING INDUSTRIES, INC" value="6479">ARISING INDUSTRIES, INC</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ASTON MARTIN" value="349">ASTON MARTIN</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ASTORIA" value="5158">ASTORIA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_AUDI" value="350">AUDI</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BENSON" value="6643">BENSON</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Bentley" value="325">Bentley</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BETA" value="2320">BETA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BIG DOG MOTORCYCLES" value="1465">BIG DOG MOTORCYCLES</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BIGHORN, BIGHORN TRAVELER, BIG COUNTRY, &amp; LANDMARK" value="11527">BIGHORN, BIGHORN TRAVELER, BIG COUNTRY, &amp; LANDMARK</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BMW" value="122">BMW</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BOATMATE TRAILERS" value="7072">BOATMATE TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BRIGHTDROP" value="10768">BRIGHTDROP</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BUICK" value="34">BUICK</option>
+<option class="option_search.MakeId" id="option_search.MakeId_BULLET" value="4927">BULLET</option>
+<option class="option_search.MakeId" id="option_search.MakeId_CADILLAC" value="26">CADILLAC</option>
+<option class="option_search.MakeId" id="option_search.MakeId_CAN-AM" value="1390">CAN-AM</option>
+<option class="option_search.MakeId" id="option_search.MakeId_CARGO EXPRESS TRAILERS" value="10867">CARGO EXPRESS TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_CFMOTO" value="7996">CFMOTO</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Chevrolet" value="29">Chevrolet</option>
+<option class="option_search.MakeId" id="option_search.MakeId_CHONGQING ZONGSHEN AUTOMOTIVE INDUSTRY CO., LTD." value="12055">CHONGQING ZONGSHEN AUTOMOTIVE INDUSTRY CO., LTD.</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Chrysler" value="131">Chrysler</option>
+<option class="option_search.MakeId" id="option_search.MakeId_CLUB CAR" value="11363">CLUB CAR</option>
+<option class="option_search.MakeId" id="option_search.MakeId_COLEMAN" value="2617">COLEMAN</option>
+<option class="option_search.MakeId" id="option_search.MakeId_COLUMBIA NORTHWEST" value="11263">COLUMBIA NORTHWEST</option>
+<option class="option_search.MakeId" id="option_search.MakeId_COVERED WAGON TRAILERS" value="5719">COVERED WAGON TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_CROSS TRAILERS" value="4960">CROSS TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Dodge" value="124">Dodge</option>
+<option class="option_search.MakeId" id="option_search.MakeId_DOOLITTLE, FOXTRAIL" value="6049">DOOLITTLE, FOXTRAIL</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Ducati" value="311">Ducati</option>
+<option class="option_search.MakeId" id="option_search.MakeId_EAST MANUFACTURING CORP." value="8821">EAST MANUFACTURING CORP.</option>
+<option class="option_search.MakeId" id="option_search.MakeId_EXTREME TRAILERS" value="11956">EXTREME TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_E-Z-GO DIVISION OF TEXTRON" value="11989">E-Z-GO DIVISION OF TEXTRON</option>
+<option class="option_search.MakeId" id="option_search.MakeId_FERRARI" value="1026">FERRARI</option>
+<option class="option_search.MakeId" id="option_search.MakeId_FIAT" value="916">FIAT</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Fisker" value="1298">Fisker</option>
+<option class="option_search.MakeId" id="option_search.MakeId_FLEETWOOD ENTERPRISES (PROWLER)" value="7963">FLEETWOOD ENTERPRISES (PROWLER)</option>
+<option class="option_search.MakeId" id="option_search.MakeId_FORD" value="171">FORD</option>
+<option class="option_search.MakeId" id="option_search.MakeId_GEM WAEV" value="6313">GEM WAEV</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Genesis" value="1004">Genesis</option>
+<option class="option_search.MakeId" id="option_search.MakeId_GMC" value="63">GMC</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Harley Davidson" value="1195">Harley Davidson</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HARROD EQUIPMENT LLC DBA BLUEGRASS TRAILER MFG" value="11890">HARROD EQUIPMENT LLC DBA BLUEGRASS TRAILER MFG</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HAUL-ABOUT" value="7666">HAUL-ABOUT</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HAULMARK" value="9316">HAULMARK</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HAULMARK (AMERICAN CARGO GROUP TRAILERS, LLC)" value="11329">HAULMARK (AMERICAN CARGO GROUP TRAILERS, LLC)</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HDK ELECTRIC VEHICLES" value="8656">HDK ELECTRIC VEHICLES</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HEARTLAND RV" value="6676">HEARTLAND RV</option>
+<option class="option_search.MakeId" id="option_search.MakeId_H &amp; H TRAILERS" value="10405">H &amp; H TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HODGES CUSTOM HAULERS" value="6446">HODGES CUSTOM HAULERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HOMEGROWN TRAILERS" value="11296">HOMEGROWN TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HONDA" value="337">HONDA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HUSQVARNA" value="1428">HUSQVARNA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_HYUNDAI" value="437">HYUNDAI</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ICON ELECTRIC VEHICLES" value="7435">ICON ELECTRIC VEHICLES</option>
+<option class="option_search.MakeId" id="option_search.MakeId_INDIAN MOTORCYCLE" value="1383">INDIAN MOTORCYCLE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_INEOS" value="12187">INEOS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_INFINITI" value="305">INFINITI</option>
+<option class="option_search.MakeId" id="option_search.MakeId_INTECH TRAILERS" value="11626">INTECH TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_INTERNATIONAL" value="952">INTERNATIONAL</option>
+<option class="option_search.MakeId" id="option_search.MakeId_IRON EAGLE TRAILERS" value="12253">IRON EAGLE TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ISUZU" value="922">ISUZU</option>
+<option class="option_search.MakeId" id="option_search.MakeId_JAGUAR" value="968">JAGUAR</option>
+<option class="option_search.MakeId" id="option_search.MakeId_JAYCO/EAGLE" value="8392">JAYCO/EAGLE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_JAY FEATHER" value="9514">JAY FEATHER</option>
+<option class="option_search.MakeId" id="option_search.MakeId_JAY FLIGHT" value="8293">JAY FLIGHT</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Jeep" value="126">Jeep</option>
+<option class="option_search.MakeId" id="option_search.MakeId_J-J-N ENTERPRISES, INC." value="11857">J-J-N ENTERPRISES, INC.</option>
+<option class="option_search.MakeId" id="option_search.MakeId_KARMA" value="1044">KARMA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_KIA" value="1006">KIA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_KODIAK" value="3805">KODIAK</option>
+<option class="option_search.MakeId" id="option_search.MakeId_KTM" value="1369">KTM</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LAKES ENTERPRISES" value="8557">LAKES ENTERPRISES</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Lamborghini" value="1119">Lamborghini</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LANCE" value="12088">LANCE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Land Rover" value="969">Land Rover</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LEXUS" value="426">LEXUS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LIBERTY" value="9811">LIBERTY</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Lincoln" value="988">Lincoln</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LITTLE GUY MICRO MAX" value="9448">LITTLE GUY MICRO MAX</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LOTUS" value="1127">LOTUS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LUCID" value="10801">LUCID</option>
+<option class="option_search.MakeId" id="option_search.MakeId_LUYUAN" value="12220">LUYUAN</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MALLARD, NORTH TRAIL, &amp; WILDERNESS" value="9283">MALLARD, NORTH TRAIL, &amp; WILDERNESS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MASERATI" value="1003">MASERATI</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MAXEY TRAILERS MFG" value="10933">MAXEY TRAILERS MFG</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MAYBACH" value="1109">MAYBACH</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MAZDA" value="194">MAZDA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_McLaren" value="1206">McLaren</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MERCEDES-BENZ" value="193">MERCEDES-BENZ</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MERCURY" value="164">MERCURY</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MINI" value="125">MINI</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Mitsubishi" value="183">Mitsubishi</option>
+<option class="option_search.MakeId" id="option_search.MakeId_MOKE" value="11032">MOKE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_NISSAN" value="306">NISSAN</option>
+<option class="option_search.MakeId" id="option_search.MakeId_NORTH POINT" value="8425">NORTH POINT</option>
+<option class="option_search.MakeId" id="option_search.MakeId_OLDSMOBILE" value="60">OLDSMOBILE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_O'NEAL TRAILERS" value="11230">O'NEAL TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_OPEN RANGE" value="10009">OPEN RANGE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ORANGE COUNTY CHOPPERS" value="1429">ORANGE COUNTY CHOPPERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_PASSPORT" value="5950">PASSPORT</option>
+<option class="option_search.MakeId" id="option_search.MakeId_PINNACLE" value="11692">PINNACLE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_PIONEER, PROWLER, &amp; PROWLER LNYX" value="9976">PIONEER, PROWLER, &amp; PROWLER LNYX</option>
+<option class="option_search.MakeId" id="option_search.MakeId_PLYMOUTH" value="918">PLYMOUTH</option>
+<option class="option_search.MakeId" id="option_search.MakeId_POLARIS" value="1372">POLARIS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_POLESTAR" value="1423">POLESTAR</option>
+<option class="option_search.MakeId" id="option_search.MakeId_PONTIAC" value="39">PONTIAC</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Porsche" value="427">Porsche</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Ram" value="132">Ram</option>
+<option class="option_search.MakeId" id="option_search.MakeId_RBD" value="5852">RBD</option>
+<option class="option_search.MakeId" id="option_search.MakeId_RIVIAN" value="6515">RIVIAN</option>
+<option class="option_search.MakeId" id="option_search.MakeId_R &amp; M TRAILER MFG. INC." value="8194">R &amp; M TRAILER MFG. INC.</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ROLLS ROYCE" value="913">ROLLS ROYCE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SAAB" value="200">SAAB</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SATURN" value="934">SATURN</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SLINGSHOT" value="1438">SLINGSHOT</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SMART" value="1110">SMART</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SPARTAN CARGO TRAILERS" value="7237">SPARTAN CARGO TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SPARTAN RV CHASSIS" value="12154">SPARTAN RV CHASSIS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SUBARU" value="308">SUBARU</option>
+<option class="option_search.MakeId" id="option_search.MakeId_SUNDANCE" value="6577">SUNDANCE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Suzuki" value="949">Suzuki</option>
+<option class="option_search.MakeId" id="option_search.MakeId_TAIWAN GOLDEN BEE" value="6115">TAIWAN GOLDEN BEE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_TAIZHOU NEBULA POWER CO., LTD" value="7798">TAIZHOU NEBULA POWER CO., LTD</option>
+<option class="option_search.MakeId" id="option_search.MakeId_TAXA INC." value="11395">TAXA INC.</option>
+<option class="option_search.MakeId" id="option_search.MakeId_TESLA" value="246">TESLA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_TOWBLAZER" value="10900">TOWBLAZER</option>
+<option class="option_search.MakeId" id="option_search.MakeId_TOYOTA" value="434">TOYOTA</option>
+<option class="option_search.MakeId" id="option_search.MakeId_TRAILER MADE CUSTOM TRAILERS" value="10537">TRAILER MADE CUSTOM TRAILERS</option>
+<option class="option_search.MakeId" id="option_search.MakeId_Triumph" value="1010">Triumph</option>
+<option class="option_search.MakeId" id="option_search.MakeId_UNITED EXPRESSLINE" value="6445">UNITED EXPRESSLINE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_UNIVERSAL TRAILER CORPORATION HORSE/LIVESTOCK GROUP" value="11494">UNIVERSAL TRAILER CORPORATION HORSE/LIVESTOCK GROUP</option>
+<option class="option_search.MakeId" id="option_search.MakeId_UTILITY TRAILER MANUFACTURER" value="6808">UTILITY TRAILER MANUFACTURER</option>
+<option class="option_search.MakeId" id="option_search.MakeId_VANLEIGH RV" value="5951">VANLEIGH RV</option>
+<option class="option_search.MakeId" id="option_search.MakeId_VENOM" value="11791">VENOM</option>
+<option class="option_search.MakeId" id="option_search.MakeId_VICTORY" value="1371">VICTORY</option>
+<option class="option_search.MakeId" id="option_search.MakeId_VOLKSWAGEN" value="321">VOLKSWAGEN</option>
+<option class="option_search.MakeId" id="option_search.MakeId_VOLTAGE" value="5984">VOLTAGE</option>
+<option class="option_search.MakeId" id="option_search.MakeId_VOLVO" value="323">VOLVO</option>
+<option class="option_search.MakeId" id="option_search.MakeId_VOLVO TRUCK" value="1304">VOLVO TRUCK</option>
+<option class="option_search.MakeId" id="option_search.MakeId_WHITE HAWK" value="8722">WHITE HAWK</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ZERO MOTORCYCLES" value="1396">ZERO MOTORCYCLES</option>
+<option class="option_search.MakeId" id="option_search.MakeId_ZINGER" value="10603">ZINGER</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3" for="search.ModelId">Model:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="search by vehicle model" src="/public/img/icn/car-front.png" width="15px"/></span>
+<select class="form-control select_model" name="search.ModelId" style="width: 100%">
+<option selected="true" value="-1">All Models</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3" for="search.VehicleBodyTypeId">Body:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="select body type" src="/public/img/icn/car-2.png" width="15px"/></span>
+<select class="form-control" id="select_bodyType" name="search.VehicleBodyTypeId" style="width: 100%">
+<option selected="true" value="0">All</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Compact Car" value="1">Compact Car</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Hatchback" value="2">Hatchback</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Sedan" value="3">Sedan</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Crossover" value="4">Crossover</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Station Wagon" value="5">Station Wagon</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Minivan" value="6">Minivan</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Full Size Car" value="7">Full Size Car</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Compact SUV" value="8">Compact SUV</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Full Size SUV" value="9">Full Size SUV</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Pickup Truck" value="10">Pickup Truck</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Coupe" value="11">Coupe</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Convertible" value="12">Convertible</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Supercar" value="13">Supercar</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Cargo Van" value="14">Cargo Van</option>
+<option class="option_search.VehicleBodyTypeId" id="option_search.VehicleBodyTypeId_Commercial" value="15">Commercial</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3">Year Range:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="Vehicle year range" src="/public/img/icn/calendar-date.png" width="15px"/></span>
+<input class="col-xs-6" id="year_min" name="search.YearMin" style="margin-top:2px;" value="1980"/>
+<input class="col-xs-6" id="year_max" name="search.YearMax" style="margin-top:2px;" value="2024"/>
+</div>
+<label class="control-label col-xs-4" id="year_range_display" style="margin-top:7px;"></label>
+<div class="col-xs-8" style="width: 100%; margin-bottom:15px;">
+<div id="year_range"></div>
+</div>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3">Price Range: </label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="Price Range" src="/public/img/icn/money-12.png" width="15px"/></span>
+<input class="col-xs-6" id="price_min" name="search.PriceMinString" style="margin-top:2px;" value="1,000"/>
+<input class="col-xs-6" id="price_max" name="search.PriceMaxString" style="margin-top:2px;" value="150,000"/>
+</div>
+<label class="control-label col-xs-4" id="price_range_display" style="margin-top:7px;"></label>
+<div class="col-xs-8" style="width: 100%; margin-bottom:15px;">
+<div id="price_range"></div>
+</div>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3">MPG Range: </label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="MPG Range" src="/public/img/icn/fuel.png" width="15px"/></span>
+<input class="col-xs-6" id="mpg_min" name="search.MpgMinString" style="margin-top:2px;" value="0"/>
+<input class="col-xs-6" id="mpg_max" name="search.MpgMaxString" style="margin-top:2px;" value="100"/>
+</div>
+<label class="control-label col-xs-4" id="mpg_range_display" style="margin-top:7px;"></label>
+<div class="col-xs-8" style="width: 100%; margin-bottom:15px;">
+<div id="mpg_range"></div>
+</div>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-3">Mileage Range: </label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="Mileage Range" src="/public/img/icn/dashboard.png" width="15px"/></span>
+<input class="col-xs-6" id="mileage_min" name="search.MileageMinString" style="margin-top:2px;" value="0"/>
+<input class="col-xs-6" id="mileage_max" name="search.MileageMaxString" style="margin-top:2px;" value="200,000"/>
+</div>
+<label class="control-label col-xs-4" id="mileage_range_display" style="margin-top:7px;"></label>
+<div class="col-xs-8" style="width: 100%; margin-bottom:15px;">
+<div id="mileage_range"></div>
+</div>
+</div>
+</div>
+<div style="padding-top:40px;">
+<label class="btn-link col-xs-12 control-label" data-target="#group-advanced" data-toggle="collapse" id="advanced-section">
+<i class="fa fa-fw fa-caret-down parent-expanded"></i>
+<i class="fa fa-fw fa-caret-right parent-collapsed"></i>
+<span class="glyphicon glyphicon-cog"></span> Advanced
+          </label>
+<div class="list-group collapse" id="group-advanced">
+<div class="form-group row row-no-gutters" style="padding-left:15px;padding-right:15px;">
+<label class="control-label col-sm-3" for="search.RequireImages" style="margin-top:10px;">Require Images:</label>
+<div class="col-sm-9">
+<div class="input-group" style="margin-top:10px;">
+<input checked="" data-off="No" data-on="Yes" data-toggle="toggle" id="search.RequireImages" name="search.RequireImages" type="checkbox" value="true"/>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group row row-no-gutters" style="padding-left:15px;padding-right:15px;">
+<label class="control-label col-sm-3" for="search.Trims">Trims:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="search by vehicle trim" src="/public/img/icn/car-door.png" width="15px"/></span>
+<select class="form-control select_trims" for="search.Trims" id="select_Trims" multiple="multiple" style="width: 100%">
+<option selected="true" value="-1">All Trims</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group row row-no-gutters" style="padding-left:15px;padding-right:15px;">
+<label class="control-label col-sm-3" for="search.PropulsionTypeId">Fuel Type:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="select propulsion type" src="/public/img/icn/fuel.png" width="15px"/></span>
+<select class="form-control" id="select_propulsionType" name="search.PropulsionTypeId" style="width: 100%">
+<option selected="true" value="0">All</option>
+<option class="option_search.PropulsionTypeId" id="option_search.PropulsionTypeId_Gas" value="1">Gas</option>
+<option class="option_search.PropulsionTypeId" id="option_search.PropulsionTypeId_Diesel" value="2">Diesel</option>
+<option class="option_search.PropulsionTypeId" id="option_search.PropulsionTypeId_Electric" value="3">Electric</option>
+<option class="option_search.PropulsionTypeId" id="option_search.PropulsionTypeId_Hybrid" value="4">Hybrid</option>
+<option class="option_search.PropulsionTypeId" id="option_search.PropulsionTypeId_Flex Fuel" value="5">Flex Fuel</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group row row-no-gutters" style="padding-left:15px;padding-right:15px;">
+<label class="control-label col-sm-3" for="search.CabTypeId">Truck Cab Type:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="select cab type" src="/public/img/icn/delivery-fast.png" width="15px"/></span>
+<select class="form-control" id="select_cabType" name="search.CabTypeId" style="width: 100%">
+<option selected="true" value="0">All</option>
+<option class="option_search.CabTypeId" id="option_search.CabTypeId_Regular" value="1">Regular</option>
+<option class="option_search.CabTypeId" id="option_search.CabTypeId_Extended" value="2">Extended</option>
+<option class="option_search.CabTypeId" id="option_search.CabTypeId_Crew" value="3">Crew</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+<div class="form-group row row-no-gutters" style="padding-left:15px;padding-right:15px;">
+<label class="control-label col-sm-3" for="search.TransmissionTypeId">Transmission Type:</label>
+<div class="col-sm-9">
+<div class="input-group">
+<span class="input-group-addon"><img alt="select transmission type" src="/public/img/icn/transmission.png" width="15px"/></span>
+<select class="form-control" id="select_transmissionType" name="search.TransmissionTypeId" style="width: 100%">
+<option class="option_search.TransmissionTypeId" id="option_search.TransmissionTypeId_All" selected="" value="1">All</option>
+<option class="option_search.TransmissionTypeId" id="option_search.TransmissionTypeId_Automatic" value="2">Automatic</option>
+<option class="option_search.TransmissionTypeId" id="option_search.TransmissionTypeId_Manual" value="3">Manual</option>
+</select>
+</div>
+</div>
+<span class="error"></span>
+</div>
+</div>
+</div>
+<input class="form-control" name="search.SIdx" type="hidden" value="1"/>
+<input class="form-control" name="search.EIdx" type="hidden" value="15"/>
+</div></div></form>
+<div class="col-xs-12" style="margin-top:20px;">
+<button class="btn btn-alt btn-block saveScrollPostion" id="search_btn" onclick="handleNewSearchSubmit()">Search</button>
+</div>
+<div class="col-xs-12" style="margin-top:10px; margin-bottom:10px;">
+<a class="text text-danger saveScrollPostion" href="/inventory"> Reset Search</a>
+</div>
+</div>
+<span><button class="btn btn-link btn-sm" onclick="handlePrevBtnSubmit()">Prev</button> Showing <strong>1-15</strong> out of <strong id="listing_count">104</strong> listings <button class="btn btn-link btn-sm" onclick="handleNextBtnSubmit()">Next</button></span>
+<div class="col-sm-9" style="padding-left:0px;padding-right:0px;margin-left:0px;margin-right:0px;">
+<div hidden="" id="loading_area">
+<div id="spinner"></div>
+<p class="text-center" id="">Loading...</p>
+</div>
+<div id="main_content_zone">
+<table class="table responsive" id="inventory_vehicles_table" style="padding-left:0px;">
+<thead style="display:none">
+<th>Images</th>
+<th>Content</th>
+</thead>
+<tbody style="border:none;">
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/21641942/2022-acura-rdx-in-austin-tx/5J8TC1H63NL006255">
+<img alt="2022 ACURA RDXw/A-SPEC" class="lazy" data-original="https://cdn.getauto.com/photos/9/237439/1c/5J8TC1H63NL006255-1c.jpg" height="100%" width="100%"/>
+</a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/21641942/2022-acura-rdx-in-austin-tx/5J8TC1H63NL006255"><h2>2022 ACURA RDX w/A-SPEC</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="33484" width="20px"/>  $33,484</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 44,622 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 2.0L 2.0L Turbo I4 272hp 280ft Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> 10-Speed Shiftable Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 22, Highway: 27</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8TC1H63NL006255</small></div>
+<div><small>Stock: 006255U</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/34747" style="padding-left:0px;padding-right:0px;">South Point Dodge Chrysler Jeep Ram, Austin, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(4.80 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/21641942/2022-acura-rdx-in-austin-tx/5J8TC1H63NL006255">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/rdx/2022">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+</td></tr></tbody></table></div>
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted21641942"></span>
+<script>
+                        var date1 = new Date('2023-12-03');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted21641942").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 182</small></span>
+</div>
+</div>
+
+
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22026830/2020-acura-rdx-in-austin-tx/5J8TC1H58LL001525">
+<img alt="2020 ACURA RDXw/Technology Pkg" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/2bd456a7cfbb4f45861829d0d8b32328.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22026830/2020-acura-rdx-in-austin-tx/5J8TC1H58LL001525"><h2>2020 ACURA RDX w/Technology Pkg</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="31352" width="20px"/>  $31,352</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 30,815 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 2.0 L 4 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 22, Highway: 28</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8TC1H58LL001525</small></div>
+<div><small>Stock: P04042A</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/30859" style="padding-left:0px;padding-right:0px;">Covert Chrysler Dodge Jeep Ram, Austin, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(6.28 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22026830/2020-acura-rdx-in-austin-tx/5J8TC1H58LL001525">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/rdx/2020">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+</td></tr></div>
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22026830"></span>
+<script>
+                        var date1 = new Date('2023-12-30');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22026830").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 136</small></span>
+</div>
+</div>
+
+
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/21329709/2019-acura-mdx-in-austin-tx/5J8YD3H50KL003671">
+<img alt="2019 ACURA MDXw/Tech" class="lazy" data-original="https://cdn.getauto.com/photos/3/228943/1c/5J8YD3H50KL003671-1c.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/21329709/2019-acura-mdx-in-austin-tx/5J8YD3H50KL003671"><h2>2019 ACURA MDX w/Tech</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="24995" width="20px"/>  $24,995</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 64,425 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 3.5L 6 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> 9-Speed Shiftable Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 20, Highway: 27</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8YD3H50KL003671</small></div>
+<div><small>Stock: KL003671</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/34931" style="padding-left:0px;padding-right:0px;">Henna Chevrolet, Austin, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(6.42 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/21329709/2019-acura-mdx-in-austin-tx/5J8YD3H50KL003671">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/mdx/2019">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+</td></tr></header></div>
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted21329709"></span>
+<script>
+                        var date1 = new Date('2023-11-12');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted21329709").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 207</small></span>
+</div>
+</div>
+
+
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22171810/2023-acura-mdx-in-austin-tx/5J8YE1H05PL020351">
+<img alt="2023 ACURA MDXwith A-Spec Package" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/230fd3af83d644bfa6109f693554a5c4.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22171810/2023-acura-mdx-in-austin-tx/5J8YE1H05PL020351"><h2>2023 ACURA MDX with A-Spec Package</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="54458" width="20px"/>  $54,458</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 3,705 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 3.5 L 6 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  AWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 19, Highway: 25</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8YE1H05PL020351</small></div>
+<div><small>Stock: 2232675A</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/31129" style="padding-left:0px;padding-right:0px;">Covert Ford Inc., Austin, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(10.70 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22171810/2023-acura-mdx-in-austin-tx/5J8YE1H05PL020351">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/mdx/2023">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22171810"></span>
+<script>
+                        var date1 = new Date('2024-01-08');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22171810").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 117</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22178027/2023-acura-rdx-in-hutto-tx/5J8TC1H5XPL001080">
+<img alt="2023 ACURA RDXTechnology Package" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/011b02316a26471f91e3f22d3b11ae57.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22178027/2023-acura-rdx-in-hutto-tx/5J8TC1H5XPL001080"><h2>2023 ACURA RDX Technology Package</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="37485" width="20px"/>  $37,485</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 16,499 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 2.0 L 4 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 22, Highway: 28</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8TC1H5XPL001080</small></div>
+<div><small>Stock: F240016A</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/31124" style="padding-left:0px;padding-right:0px;">Covert Ford Hutto, Hutto, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(23.05 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22178027/2023-acura-rdx-in-hutto-tx/5J8TC1H5XPL001080">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/rdx/2023">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22178027"></span>
+<script>
+                        var date1 = new Date('2024-01-09');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22178027").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 111</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22297462/2020-acura-mdx-in-hutto-tx/5J8YD3H51LL009156">
+<img alt="2020 ACURA MDXTechnology" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/dc053dcdc8a141f4a5949315cc38f656.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22297462/2020-acura-mdx-in-hutto-tx/5J8YD3H51LL009156"><h2>2020 ACURA MDX Technology</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="31165" width="20px"/>  $31,165</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 45,444 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 3.5 L 6 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 20, Highway: 27</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8YD3H51LL009156</small></div>
+<div><small>Stock: FM4202A</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/31124" style="padding-left:0px;padding-right:0px;">Covert Ford Hutto, Hutto, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(23.05 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22297462/2020-acura-mdx-in-hutto-tx/5J8YD3H51LL009156">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/mdx/2020">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22297462"></span>
+<script>
+                        var date1 = new Date('2024-01-18');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22297462").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 104</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/21884240/2020-acura-ilx-in-san-marcos-tx/19UDE2F74LA002594">
+<img alt="2020 ACURA ILXw/Premium" class="lazy" data-original="http://img.leaddelivery.net/images/19UDE2F74LA002594/Original/8422974861.jpg?s=0000-2068" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/21884240/2020-acura-ilx-in-san-marcos-tx/19UDE2F74LA002594"><h2>2020 ACURA ILX w/Premium</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="28088" width="20px"/>  $28,088</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 23,799 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> I4 2.40L</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> </small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City , Highway: </small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 19UDE2F74LA002594</small></div>
+<div><small>Stock: 02594G</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/41859" style="padding-left:0px;padding-right:0px;">Griffith Ford San Marcos, San Marcos, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(25.77 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/21884240/2020-acura-ilx-in-san-marcos-tx/19UDE2F74LA002594">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/ilx/2020">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted21884240"></span>
+<script>
+                        var date1 = new Date('2023-12-19');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted21884240").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 238</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/21794202/2020-acura-rdx-in-san-marcos-tx/5J8TC1H56LL014578">
+<img alt="2020 ACURA RDXw/Tech" class="lazy" data-original="http://img.leaddelivery.net/images/5J8TC1H56LL014578/Original/8403855097.jpg?s=0000-2068" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/21794202/2020-acura-rdx-in-san-marcos-tx/5J8TC1H56LL014578"><h2>2020 ACURA RDX w/Tech</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="32088" width="20px"/>  $32,088</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 67,322 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> I4 2.00L</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> </small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City , Highway: </small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8TC1H56LL014578</small></div>
+<div><small>Stock: 14578G</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/41859" style="padding-left:0px;padding-right:0px;">Griffith Ford San Marcos, San Marcos, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(25.77 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/21794202/2020-acura-rdx-in-san-marcos-tx/5J8TC1H56LL014578">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/rdx/2020">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted21794202"></span>
+<script>
+                        var date1 = new Date('2023-12-14');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted21794202").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 146</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/21878126/2019-acura-rdx-in-new-braunfels-tx/5J8TC2H54KL009965">
+<img alt="2019 ACURA RDXwith Technology Pkg" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/b2414e2e924443bc9f8a6374fe1a3742.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/21878126/2019-acura-rdx-in-new-braunfels-tx/5J8TC2H54KL009965"><h2>2019 ACURA RDX with Technology Pkg</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Certified Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="24895" width="20px"/>  $24,895</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Certified Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 86,529 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 2.0 Liter 4 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  AWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 21, Highway: 27</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8TC2H54KL009965</small></div>
+<div><small>Stock: UL009965</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/30332" style="padding-left:0px;padding-right:0px;">Bluebonnet Ford, New Braunfels, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(46.23 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/21878126/2019-acura-rdx-in-new-braunfels-tx/5J8TC2H54KL009965">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/rdx/2019">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted21878126"></span>
+<script>
+                        var date1 = new Date('2023-12-19');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted21878126").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 143</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22325795/2019-acura-mdx-in-selma-tx/5J8YD3H36KL012356">
+<img alt="2019 ACURA MDXBASE" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/stock_images/5/2019ACS11_640/2019ACS110208_640_01.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22325795/2019-acura-mdx-in-selma-tx/5J8YD3H36KL012356"><h2>2019 ACURA MDX BASE</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="26995" width="20px"/>  $26,995</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 65,072 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 3.5 L 6 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 20, Highway: 27</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8YD3H36KL012356</small></div>
+<div><small>Stock: UL012356</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/30327" style="padding-left:0px;padding-right:0px;">Audi North Park, Selma, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(58.90 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22325795/2019-acura-mdx-in-selma-tx/5J8YD3H36KL012356">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/mdx/2019">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22325795"></span>
+<script>
+                        var date1 = new Date('2024-01-20');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22325795").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 101</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22180490/2022-acura-mdx-in-san-antonio-tx/5J8YE1H05NL037275">
+<img alt="2022 ACURA MDXw/A-Spec Package" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/daf4a630e65942558b17f7caacb09945.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22180490/2022-acura-mdx-in-san-antonio-tx/5J8YE1H05NL037275"><h2>2022 ACURA MDX w/A-Spec Package</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="44995" width="20px"/>  $44,995</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 29,820 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 3.5 L 6 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  AWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 19, Highway: 25</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8YE1H05NL037275</small></div>
+<div><small>Stock: UDL037275</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/30323" style="padding-left:0px;padding-right:0px;">North Park Lexus at Dominion, San Antonio, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(69.01 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22180490/2022-acura-mdx-in-san-antonio-tx/5J8YE1H05NL037275">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/mdx/2022">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22180490"></span>
+<script>
+                        var date1 = new Date('2024-01-09');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22180490").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 119</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22043656/2017-acura-rdx-in-san-antonio-tx/5J8TB3H54HL021244">
+<img alt="2017 ACURA RDXw/Technology Pkg" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/081fc59d688f4e90950883e94c027e8d.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22043656/2017-acura-rdx-in-san-antonio-tx/5J8TB3H54HL021244"><h2>2017 ACURA RDX w/Technology Pkg</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="19551" width="20px"/>  $19,551</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 84,966 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 3.5 L 6 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 20, Highway: 28</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8TB3H54HL021244</small></div>
+<div><small>Stock: 2146A</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/30907" style="padding-left:0px;padding-right:0px;">Mercedes-Benz of San Antonio, San Antonio, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(69.04 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22043656/2017-acura-rdx-in-san-antonio-tx/5J8TB3H54HL021244">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/rdx/2017">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22043656"></span>
+<script>
+                        var date1 = new Date('2023-12-31');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22043656").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 136</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/22093726/2020-acura-tlx-in-san-antonio-tx/19UUB1F58LA015561">
+<img alt="2020 ACURA TLXw/Technology Pkg" class="lazy" data-original="https://content.homenetiol.com/2002457/2170371/640x480/1cfb214c372a4949a7738e725d376cda.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/22093726/2020-acura-tlx-in-san-antonio-tx/19UUB1F58LA015561"><h2>2020 ACURA TLX w/Technology Pkg</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="24641" width="20px"/>  $24,641</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 49,528 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 2.4 lL 4 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> automatic  fwd</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 23, Highway: 33</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 19UUB1F58LA015561</small></div>
+<div><small>Stock: 167910A</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/30907" style="padding-left:0px;padding-right:0px;">Mercedes-Benz of San Antonio, San Antonio, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(69.04 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/22093726/2020-acura-tlx-in-san-antonio-tx/19UUB1F58LA015561">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/tlx/2020">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted22093726"></span>
+<script>
+                        var date1 = new Date('2024-01-03');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted22093726").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 148</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/21976566/2021-acura-rdx-in-san-antonio-tx/5J8TC1H64ML009258">
+<img alt="2021 ACURA RDXA-Spec Package" class="lazy" data-original="https://cdn.getauto.com/photos/0/241550/1c/5J8TC1H64ML009258-1c.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/21976566/2021-acura-rdx-in-san-antonio-tx/5J8TC1H64ML009258"><h2>2021 ACURA RDX A-Spec Package</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="34911" width="20px"/>  $34,911</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 37,885 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 2.0L 4 Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> 10-Speed Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 22, Highway: 27</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 5J8TC1H64ML009258</small></div>
+<div><small>Stock: ML009258</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/33460" style="padding-left:0px;padding-right:0px;">Audi Dominion, San Antonio, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(69.08 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/21976566/2021-acura-rdx-in-san-antonio-tx/5J8TC1H64ML009258">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/rdx/2021">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted21976566"></span>
+<script>
+                        var date1 = new Date('2023-12-24');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted21976566").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 128</small></span>
+</div>
+</div>
+</td>
+</tr>
+<tr class="inventory_row" style="border:none;">
+<td class="valign-middle" data-label="Gallery" style="border:none;padding-left:0px;">
+<a href="/vehicle/21536115/2023-acura-tlx-in-san-antonio-tx/19UUB5F58PA001611">
+<img alt="2023 ACURA TLXw/A-Spec" class="lazy" data-original="https://cdn.getauto.com/photos/0/241550/1c/19UUB5F58PA001611-1c.jpg" height="100%" width="100%">
+</img></a>
+</td>
+<td class="valign-middle col-xs-11 col-sm-4" data-label="Vehicle" style="border:none;">
+<a href="/vehicle/21536115/2023-acura-tlx-in-san-antonio-tx/19UUB5F58PA001611"><h2>2023 ACURA TLX w/A-Spec</h2></a>
+<div class="row col-xs-12">
+<span class="label label-success square"></span>
+<span class="label label-default square">Preowned</span>
+</div>
+<div class="row col-xs-6">
+<h4 style="padding-top:5px;padding-bottom:5px;">
+<img alt="Vehicle price" class="price_field" src="/public/img/icn/label.png" value="41552" width="20px"/>  $41,552</h4>
+</div>
+<div class="row col-xs-6">
+<script>var x = "Preowned";
+  if (x == "New") {
+  } else {
+    document.write('<h4 style="padding-top:5px;padding-bottom:5px;"><img src="/public/img/icn/h-dashboard.png" width="20px" alt="Vehicle mileage"> 1,611 <small>Miles</small></h4>');
+  }
+  </script>
+</div>
+<div class="row col-xs-6">
+<div><small><img alt="Vehicle engine icon" src="/public/img/icn/engine.png" width="20px"/> 2.0L 2.0L Turbo I4 272hp 280ft Cylinders</small></div>
+<div><small><img alt="Vehicle transmission icon" src="/public/img/icn/transmission.png" width="20px"/> 10-Speed Shiftable Automatic  FWD</small></div>
+<div><small><img alt="Vehicle mileage icon" src="/public/img/icn/organic.png" width="20px"/> MPG: City 22, Highway: 30</small></div>
+</div>
+<div class="row col-xs-6">
+<div><small>VIN: 19UUB5F58PA001611</small></div>
+<div><small>Stock: PA001611</small></div>
+</div>
+<div class="row col-xs-12" style="padding-top:10px;padding-bottom:10px;">
+<span class="glyphicon glyphicon-map-marker meta"></span>
+<a href="/dealers/id/33460" style="padding-left:0px;padding-right:0px;">Audi Dominion, San Antonio, TX</a>
+<div>
+<span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span> <span class="glyphicon glyphicon-star" style="color:gold"></span>
+<small>(69.08 miles)</small>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding-top:10px;">
+<a href="/vehicle/21536115/2023-acura-tlx-in-san-antonio-tx/19UUB5F58PA001611">
+<p class="btn btn-primary btn-block">Vehicle Details</p>
+</a>
+</div>
+<div class="col-xs-12" style="padding-top:10px;">
+<a href="/research/vehicles/acura/tlx/2023">
+<p class="btn btn-default btn-block">Vehicle Research</p>
+</a>
+</div>
+</div>
+
+<div class="row" style="padding-top:10px;">
+<div align="left" class="col-xs-4 meta">
+<span><img alt="Number of days on driverbase" src="/public/img/icn/opening-times.png" width="15px"/>
+<small>
+<span id="dayslisted21536115"></span>
+<script>
+                        var date1 = new Date('2023-11-28');
+                        var date2 = new Date('2024-01-23');
+
+                        
+                        var Difference_In_Time = date2.getTime() - date1.getTime();
+
+                        
+                        var diffDays = Difference_In_Time / (1000 * 3600 * 24);
+                        var dayText;
+                        if (diffDays == 1) {
+                          dayText = diffDays + " " + "day";
+                        } else if (diffDays > 1){
+                          dayText = diffDays + " " + "days";
+                        } else if (diffDays == 0){
+                          dayText = "New Listing";
+                        }
+                        document.getElementById("dayslisted21536115").innerHTML = dayText;
+                        </script>
+</small>
+</span>
+</div>
+<div align="right" class="col-xs-8 meta">
+<span><span class="glyphicon glyphicon-eye-open"></span><small> 76</small></span>
+</div>
+</div>
+</td>
+</tr>
+
+
+<span><button class="btn btn-link btn-sm" onclick="handlePrevBtnSubmit()">Prev</button> Showing <strong>1-15</strong> out of <strong>104</strong> listings <button class="btn btn-link btn-sm" onclick="handleNextBtnSubmit()">Next</button></span>
+
+
+<div class="container">
+<div class="row">
+<h3 class="mainsubtitle">Searching for a new or used car for sale near you?</h3>
+<p>Buy your next car online.  With the largest selection of cars for sale from the best car dealers, Driverbase helps you find your perfect ride.</p>
+<p>Driverbase has over 850,000+ cars for sale throughout the United States including cars, trucks and suvs from thousands of dealerships.  Compare prices from multiple dealerships to get the best deal on your next vehicle.</p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<h3 class="mainsubtitle" style="padding-top:10px;">Shop ACURA Models For Sale</h3>
+<div>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/cl"> ACURA CL for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/ilx"> ACURA ILX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/integra"> ACURA Integra for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/integra-type-s"> ACURA INTEGRA TYPE S for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/legend"> ACURA Legend for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/mdx"> ACURA MDX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/mdx-type-s"> ACURA MDX Type S for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/nsx"> ACURA NSX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/nsx-type-s"> ACURA NSX Type S for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/rdx"> ACURA RDX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/rl"> ACURA RL for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/rlx"> ACURA RLX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/rsx"> ACURA RSX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/tl"> ACURA TL for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/tlx"> ACURA TLX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/tlx-type-s"> ACURA TLX TYPE S for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/tlx-type-s"> ACURA TLX TYPE-S for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/tsx"> ACURA TSX for sale</a></span>
+<span class="col-xs-3 mainlink" style="padding-top:7px;padding-left:0px;"><a href="/inventory/new-and-used/acura/zdx"> ACURA ZDX for sale</a></span>
+</div>
+</div>
+</div>
+
+
+<script src="/public/js/spin.js"></script>
+<script src="/public/js/common/loading_spinner_helper.1.js"></script>
+<script src="/public/js/public_inventory/common_inventory_btn_handler.1.js"></script>
+<script src="/public/js/public_inventory/public_inventory.18.js"></script>
+<script src="/public/js/public_inventory/make_model_select.3.js"></script>
+<script src="/public/js/public_inventory/trim_select.1.js"></script>
+<script>
+
+$(function() {
+
+     var make_select = $(".select_make"),
+        model_select = $(".select_model"),
+        trim_select = $(".select_trims");
+
+    
+
+    
+        make_select.val( 333 ).trigger( 'change' );
+        model_select.val( -1 ).trigger( 'change' );
+    
+
+    
+          
+          
+               trim_input = "-1";
+               trim_select.val(trim_input.split(",")).trigger( 'change' );
+          
+    
+
+    
+         var priceRangeSlider = document.getElementById( "price_range" );
+         priceRangeSlider.noUiSlider.set(["1,000", "150,000"]);
+    
+
+    
+         var yearRangeSlider = document.getElementById( "year_range" );
+         yearRangeSlider.noUiSlider.set([ 1980 ,  2024 ]);
+    
+
+    
+         var mpgRangeSlider = document.getElementById( "mpg_range" );
+         mpgRangeSlider.noUiSlider.set(["0", "100"]);
+    
+
+    
+         var mileageRangeSlider = document.getElementById( "mileage_range" );
+         mileageRangeSlider.noUiSlider.set(["0", "200,000"]);
+    
+})
+
+</script>
+
+
+<link href="/public/css/bootstrap-toggle.min.css" rel="stylesheet" type="text/css"/>
+<link href="/public/css/typeahead.css" rel="stylesheet" type="text/css"/>
+<link href="/public/css/select2.min.css" rel="stylesheet" type="text/css"/>
+<link href="/public/css/datatables.min.css" rel="stylesheet" type="text/css"/>
+<link href="/public/css/stripe.css" rel="stylesheet" type="text/css"/>
+<link href="/public/css/nouislider.min.1.css" rel="stylesheet" type="text/css"/>
+<link href="/public/img/favicon.png" rel="shortcut icon" type="image/png"/>
+<script src="/public/js/jquery.lazyload.min.js"></script>
+<script src="/public/js/bootstrap-3.3.6.min.js"></script>
+<script src="/public/js/bootstrap-toggle.min.js"></script>
+<script src="/public/js/bloodhound.min.js"></script>
+<script src="/public/js/typeahead.bundle.min.js"></script>
+<script src="/public/js/typeahead.jquery.min.js"></script>
+<script src="/public/js/db.js"></script>
+<script src="/public/js/autoNumeric.min.js"></script>
+<script src="/public/js/select2.min.js"></script>
+<script src="/public/js/js.cookie.js"></script>
+<script src="/public/js/nouislider.min.js"></script>
+<script src="/public/js/wNumb.js"></script>
+
+<div class="footerbg" style="padding-top:20px;padding-bottom:20px;">
+<div class="container-fluid" style="padding-left:30px;">
+<div>
+<div class="row col-sm-4" style="padding-top:10px;">
+<span class="col-xs-12" style="padding-left:0px;padding-right:0px;">
+<a class="navbar-nav hidden-xs" href="/"><h3 style="color:white;padding-top:10px;margin-top:10px;padding-bottom:12px;margin-bottom:12px;">Driverbase<sup style="top:-.4em;"><small style="color:#2b7cb1;padding-top:0px;margin-top:0px;"> ®</small></sup></h3></a>
+<a class="navbar-nav visible-xs" href="/"><h3 style="color:white;padding-left:25px;padding-bottom:12px;margin-bottom:12px;">Driverbase<sup style="top:-.4em;"><small style="color:#2b7cb1;padding-top:0px;margin-top:0px;"> ®</small></sup></h3></a>
+</span>
+<span class="col-xs-12 footernav" style="padding-left:0px;padding-right:0px;padding-bottom:20px;">
+<span class="col-xs-12"><a href="/about">About Us</a></span>
+<span class="col-xs-12"><a href="/company/contact-us">Contact</a></span>
+<span class="col-xs-12"><a href="/user/register">Create Driver Account</a></span>
+<span class="col-xs-12"><a href="/dealers/console/register">Create Dealer Account</a></span>
+<span class="col-xs-12"><a href="/company/privacy/">Privacy</a></span>
+<span class="col-xs-12"><a href="/sitemap">Sitemap</a></span>
+<span class="col-xs-12"><a href="/company/terms-of-use/">Terms</a></span>
+</span>
+<div>
+<a href="https://apps.apple.com/us/app/driverbase/id1493545456" rel="noreferrer noopener" target="_blank">
+<img alt="Driverbase iOS Mobile Application" class="col-xs-6 col-sm-12 col-md-6" src="/public/img/icn/Download_on_the_App_Store_Badge_US-UK_RGB_blk_0929173.png"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.driverbase.app" rel="noreferrer noopener" target="_blank">
+<img alt="Google Play Android Mobile Application" class="col-xs-6 col-sm-12 col-md-6" src="/public/img/icn/google-play-badge-db.png"/>
+</a>
+</div>
+</div>
+<div class="col-sm-4" style="padding-top:30px;">
+<span class="footerlabel">HOW IT WORKS</span>
+<span class="col-xs-12" style="margin-left:0px;margin-top:20px;margin-bottom:20px;">
+<h4 class="footertitle">Explore, Buy &amp; Sell Cars Online</h4>
+<p class="footerlinks">Driverbase delivers personalized experiences that help drivers discover, research, compare, buy and sell cars online.</p>
+<p class="footertitle">Which Car Should I Buy?</p>
+<p class="footerlinks">Need help deciding what car to buy next?  Get personalized vehicle recommendations in seconds with our free <a href="/recommendation/step1">car quiz</a>.</p>
+<p class="footertitle">Shop &amp; Compare Cars for Sale</p>
+<p class="footerlinks"><a href="/inventory">Search new and used cars, trucks and suvs for sale</a> from thousands of highly rated local car dealerships.
+              </p>
+<p class="footertitle">What's My Car Worth?  Sell My Car Online</p>
+<p class="footerlinks"><a href="/sell">How much is my car worth?</a>  Get an instant value appraisal and notify multiple buyers to get the best price when selling your car.
+              </p>
+</span>
+</div>
+<div class="col-sm-4" style="padding-top:30px;">
+<span class="footerlabel">UPDATES</span>
+<span class="col-xs-12" style="margin-left:0px;margin-top:20px;margin-bottom:20px;">
+<p><a class="footerlinks" href="https://driverbase.com/company/update-v5681/">Driverbase Update – What’s My Car Worth?, Sell My Car, 2022 Model Year Support, Attribution Provider Integration – Release v.5681</a> <span class="footerlabel">July 30</span></p>
+<p><a class="footerlinks" href="https://www.burientoyota.com/help-me-choose-burien-wa.html">Burien Toyota joins Driverbase</a> <span class="footerlabel">June 29</span></p>
+<p><a class="footerlinks" href="https://driverbase.com/company/washington-bans-gas-cars-by-2030/">Washington Bans Gas Cars by 2030</a> <span class="footerlabel">June 4</span></p>
+<p><a class="footerlinks" href="https://driverbase.com/company/all-the-best-new-electric-trucks-you-need-to-watch-in-2021/">All the Best New Electric Trucks You Need to Watch in 2021</a> <span class="footerlabel">May 17</span></p>
+<p><a class="footerlinks" href="https://www.lithiachrysleranchorage.com/which-vehicle-should-i-buy">Lithia Superstore South Anchorage joins Driverbase</a> <span class="footerlabel">November 6</span></p>
+<span class="small">
+<a class="footerlinks" href="https://driverbase.com/company/category/release-notes/">view all</a> |
+                  <a aria-label="RSS feed" class="footerlinks" href="https://driverbase.com/company/category/release-notes/feed/"><img alt="RSS feed icon" src="/public/img/icn/logo-rss.png" width="10px"/></a>
+</span>
+<p class="small" style="padding-top:20px;">
+<a aria-label="Instragram" class="footerlinks" href="https://instagram.com/driverbaseinc"><img alt="Instragram logo" src="/public/img/icn/logo-instagram.png"/></a> |
+                  <a aria-label="Facebook" class="footerlinks" href="https://facebook.com/driverbaseinc"><img alt="Facebook logo" src="/public/img/icn/logo-facebook.png"/></a> |
+                  <a aria-label="LinkedIn" class="footerlinks" href="https://www.linkedin.com/company/driverbase"><img alt="LinkedIn logo" src="/public/img/icn/logo-linkedin.png"/></a> |
+                  <a aria-label="Twitter" class="footerlinks" href="https://twitter.com/driverbaseinc"><img alt="Twitter logo" src="/public/img/icn/logo-twitter.png"/></a> |
+                  <a aria-label="Pinterest" class="footerlinks" href="https://www.pinterest.com/driverbase/"><img alt="Pinterest logo" src="/public/img/icn/logo-pinterest.png"/></a>
+</p>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div style="background: #202937;bottom: 0; width:100%;">
+<br/>
+<div class="container-fluid">
+<div class="row">
+<div class="span6">
+<div class="footer footertext">
+<div class="col-xs-12 col-sm-4">
+<p>
+               © 2018-2022 Driverbase Inc. Colchester, VT | Seattle, WA
+            </p>
+</div>
+<div class="col-xs-12 col-sm-4">
+<p>
+              Patent Pending USPTO #16444513 CIPO #3109921 PERSONALIZED VEHICLE RECOMMENDER SYSTEM
+              </p>
+</div>
+<div class="col-xs-12 col-sm-4">
+<p>Made in the USA <img alt="Made in the USA" src="/public/img/icn/usa-sm.png" style="padding-bottom:3px;padding-left:2px;"/></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script defer="" src="/public/js/datatables.min.js"></script>
+<script type="application/ld+json">
+
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8TC1H63NL006255",
+    "name":"Preowned 2022 ACURA RDX w\/A-SPEC",
+    "mpn":"Preowned 2022 ACURA RDX w\/A-SPEC",
+    "image":"https:\/\/cdn.getauto.com\/photos\/9\/237439\/1c\/5J8TC1H63NL006255-1c.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 33484 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/21641942\/2022-acura-rdx-in-austin-tx\/5J8TC1H63NL006255,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"South Point Dodge Chrysler Jeep Ram",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"RDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2022 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"2.0L 2.0L Turbo I4 272hp 280ft Cylinders",
+      "vehicleTransmission":"10-Speed Shiftable Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"44622"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/21641942\/2022-acura-rdx-in-austin-tx\/5J8TC1H63NL006255',
+      "fuelEfficiency":"City 22, Highway: 27",
+      "sku":"006255U",
+      "description":"Preowned 2022 ACURA RDX w\/A-SPEC 2.0L 2.0L Turbo I4 272hp 280ft Cylinders for sale -  $33,484 - 44,622 miles - listed by South Point Dodge Chrysler Jeep Ram in Austin, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8TC1H58LL001525",
+    "name":"Preowned 2020 ACURA RDX w\/Technology Pkg",
+    "mpn":"Preowned 2020 ACURA RDX w\/Technology Pkg",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/2bd456a7cfbb4f45861829d0d8b32328.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 31352 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22026830\/2020-acura-rdx-in-austin-tx\/5J8TC1H58LL001525,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Covert Chrysler Dodge Jeep Ram",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"RDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2020 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"2.0 L 4 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"30815"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/22026830\/2020-acura-rdx-in-austin-tx\/5J8TC1H58LL001525',
+      "fuelEfficiency":"City 22, Highway: 28",
+      "sku":"P04042A",
+      "description":"Preowned 2020 ACURA RDX w\/Technology Pkg 2.0 L 4 Cylinders for sale -  $31,352 - 30,815 miles - listed by Covert Chrysler Dodge Jeep Ram in Austin, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8YD3H50KL003671",
+    "name":"Preowned 2019 ACURA MDX w\/Tech",
+    "mpn":"Preowned 2019 ACURA MDX w\/Tech",
+    "image":"https:\/\/cdn.getauto.com\/photos\/3\/228943\/1c\/5J8YD3H50KL003671-1c.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 24995 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/21329709\/2019-acura-mdx-in-austin-tx\/5J8YD3H50KL003671,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Henna Chevrolet",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"MDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2019 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"3.5L 6 Cylinders",
+      "vehicleTransmission":"9-Speed Shiftable Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"64425"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/21329709\/2019-acura-mdx-in-austin-tx\/5J8YD3H50KL003671',
+      "fuelEfficiency":"City 20, Highway: 27",
+      "sku":"KL003671",
+      "description":"Preowned 2019 ACURA MDX w\/Tech 3.5L 6 Cylinders for sale -  $24,995 - 64,425 miles - listed by Henna Chevrolet in Austin, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8YE1H05PL020351",
+    "name":"Preowned 2023 ACURA MDX with A-Spec Package",
+    "mpn":"Preowned 2023 ACURA MDX with A-Spec Package",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/230fd3af83d644bfa6109f693554a5c4.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 54458 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22171810\/2023-acura-mdx-in-austin-tx\/5J8YE1H05PL020351,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Covert Ford Inc.",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"MDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2023 ,
+      "driveWheelConfiguration":"AWD",
+      "vehicleEngine":"3.5 L 6 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"3705"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/22171810\/2023-acura-mdx-in-austin-tx\/5J8YE1H05PL020351',
+      "fuelEfficiency":"City 19, Highway: 25",
+      "sku":"2232675A",
+      "description":"Preowned 2023 ACURA MDX with A-Spec Package 3.5 L 6 Cylinders for sale -  $54,458 - 3,705 miles - listed by Covert Ford Inc. in Austin, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8TC1H5XPL001080",
+    "name":"Preowned 2023 ACURA RDX Technology Package",
+    "mpn":"Preowned 2023 ACURA RDX Technology Package",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/011b02316a26471f91e3f22d3b11ae57.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 37485 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22178027\/2023-acura-rdx-in-hutto-tx\/5J8TC1H5XPL001080,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Covert Ford Hutto",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"Hutto","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"RDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2023 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"2.0 L 4 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"16499"},
+      
+      "url":'\/vehicle\/22178027\/2023-acura-rdx-in-hutto-tx\/5J8TC1H5XPL001080',
+      "fuelEfficiency":"City 22, Highway: 28",
+      "sku":"F240016A",
+      "description":"Preowned 2023 ACURA RDX Technology Package 2.0 L 4 Cylinders for sale -  $37,485 - 16,499 miles - listed by Covert Ford Hutto in Hutto, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8YD3H51LL009156",
+    "name":"Preowned 2020 ACURA MDX Technology",
+    "mpn":"Preowned 2020 ACURA MDX Technology",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/dc053dcdc8a141f4a5949315cc38f656.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 31165 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22297462\/2020-acura-mdx-in-hutto-tx\/5J8YD3H51LL009156,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Covert Ford Hutto",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"Hutto","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"MDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2020 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"3.5 L 6 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"45444"},
+      
+      "url":'\/vehicle\/22297462\/2020-acura-mdx-in-hutto-tx\/5J8YD3H51LL009156',
+      "fuelEfficiency":"City 20, Highway: 27",
+      "sku":"FM4202A",
+      "description":"Preowned 2020 ACURA MDX Technology 3.5 L 6 Cylinders for sale -  $31,165 - 45,444 miles - listed by Covert Ford Hutto in Hutto, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"19UDE2F74LA002594",
+    "name":"Preowned 2020 ACURA ILX w\/Premium",
+    "mpn":"Preowned 2020 ACURA ILX w\/Premium",
+    "image":"http:\/\/img.leaddelivery.net\/images\/19UDE2F74LA002594\/Original\/8422974861.jpg?s=0000-2068",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 28088 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/21884240\/2020-acura-ilx-in-san-marcos-tx\/19UDE2F74LA002594,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Griffith Ford San Marcos",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"San Marcos","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"ILX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2020 ,
+      "driveWheelConfiguration":"",
+      "vehicleEngine":"I4 2.40L",
+      "vehicleTransmission":"",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"23799"},
+      
+      "url":'\/vehicle\/21884240\/2020-acura-ilx-in-san-marcos-tx\/19UDE2F74LA002594',
+      "fuelEfficiency":"City , Highway: ",
+      "sku":"02594G",
+      "description":"Preowned 2020 ACURA ILX w\/Premium I4 2.40L for sale -  $28,088 - 23,799 miles - listed by Griffith Ford San Marcos in San Marcos, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8TC1H56LL014578",
+    "name":"Preowned 2020 ACURA RDX w\/Tech",
+    "mpn":"Preowned 2020 ACURA RDX w\/Tech",
+    "image":"http:\/\/img.leaddelivery.net\/images\/5J8TC1H56LL014578\/Original\/8403855097.jpg?s=0000-2068",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 32088 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/21794202\/2020-acura-rdx-in-san-marcos-tx\/5J8TC1H56LL014578,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Griffith Ford San Marcos",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"San Marcos","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"RDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2020 ,
+      "driveWheelConfiguration":"",
+      "vehicleEngine":"I4 2.00L",
+      "vehicleTransmission":"",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"67322"},
+      
+      "url":'\/vehicle\/21794202\/2020-acura-rdx-in-san-marcos-tx\/5J8TC1H56LL014578',
+      "fuelEfficiency":"City , Highway: ",
+      "sku":"14578G",
+      "description":"Preowned 2020 ACURA RDX w\/Tech I4 2.00L for sale -  $32,088 - 67,322 miles - listed by Griffith Ford San Marcos in San Marcos, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8TC2H54KL009965",
+    "name":"Certified Preowned 2019 ACURA RDX with Technology Pkg",
+    "mpn":"Certified Preowned 2019 ACURA RDX with Technology Pkg",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/b2414e2e924443bc9f8a6374fe1a3742.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 24895 ,
+      "itemCondition":'Certified Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/21878126\/2019-acura-rdx-in-new-braunfels-tx\/5J8TC2H54KL009965,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Bluebonnet Ford",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"New Braunfels","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"RDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2019 ,
+      "driveWheelConfiguration":"AWD",
+      "vehicleEngine":"2.0 Liter 4 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"86529"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/21878126\/2019-acura-rdx-in-new-braunfels-tx\/5J8TC2H54KL009965',
+      "fuelEfficiency":"City 21, Highway: 27",
+      "sku":"UL009965",
+      "description":"Certified Preowned 2019 ACURA RDX with Technology Pkg 2.0 Liter 4 Cylinders for sale -  $24,895 - 86,529 miles - listed by Bluebonnet Ford in New Braunfels, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8YD3H36KL012356",
+    "name":"Preowned 2019 ACURA MDX BASE",
+    "mpn":"Preowned 2019 ACURA MDX BASE",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/stock_images\/5\/2019ACS11_640\/2019ACS110208_640_01.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 26995 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22325795\/2019-acura-mdx-in-selma-tx\/5J8YD3H36KL012356,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Audi North Park",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"Selma","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"MDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2019 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"3.5 L 6 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"65072"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/22325795\/2019-acura-mdx-in-selma-tx\/5J8YD3H36KL012356',
+      "fuelEfficiency":"City 20, Highway: 27",
+      "sku":"UL012356",
+      "description":"Preowned 2019 ACURA MDX BASE 3.5 L 6 Cylinders for sale -  $26,995 - 65,072 miles - listed by Audi North Park in Selma, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8YE1H05NL037275",
+    "name":"Preowned 2022 ACURA MDX w\/A-Spec Package",
+    "mpn":"Preowned 2022 ACURA MDX w\/A-Spec Package",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/daf4a630e65942558b17f7caacb09945.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 44995 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22180490\/2022-acura-mdx-in-san-antonio-tx\/5J8YE1H05NL037275,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"North Park Lexus at Dominion",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"MDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2022 ,
+      "driveWheelConfiguration":"AWD",
+      "vehicleEngine":"3.5 L 6 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"29820"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/22180490\/2022-acura-mdx-in-san-antonio-tx\/5J8YE1H05NL037275',
+      "fuelEfficiency":"City 19, Highway: 25",
+      "sku":"UDL037275",
+      "description":"Preowned 2022 ACURA MDX w\/A-Spec Package 3.5 L 6 Cylinders for sale -  $44,995 - 29,820 miles - listed by North Park Lexus at Dominion in San Antonio, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8TB3H54HL021244",
+    "name":"Preowned 2017 ACURA RDX w\/Technology Pkg",
+    "mpn":"Preowned 2017 ACURA RDX w\/Technology Pkg",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/081fc59d688f4e90950883e94c027e8d.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 19551 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22043656\/2017-acura-rdx-in-san-antonio-tx\/5J8TB3H54HL021244,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Mercedes-Benz of San Antonio",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"RDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2017 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"3.5 L 6 Cylinders",
+      "vehicleTransmission":"Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"84966"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/22043656\/2017-acura-rdx-in-san-antonio-tx\/5J8TB3H54HL021244',
+      "fuelEfficiency":"City 20, Highway: 28",
+      "sku":"2146A",
+      "description":"Preowned 2017 ACURA RDX w\/Technology Pkg 3.5 L 6 Cylinders for sale -  $19,551 - 84,966 miles - listed by Mercedes-Benz of San Antonio in San Antonio, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"19UUB1F58LA015561",
+    "name":"Preowned 2020 ACURA TLX w\/Technology Pkg",
+    "mpn":"Preowned 2020 ACURA TLX w\/Technology Pkg",
+    "image":"https:\/\/content.homenetiol.com\/2002457\/2170371\/640x480\/1cfb214c372a4949a7738e725d376cda.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 24641 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/22093726\/2020-acura-tlx-in-san-antonio-tx\/19UUB1F58LA015561,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Mercedes-Benz of San Antonio",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"TLX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2020 ,
+      "driveWheelConfiguration":"fwd",
+      "vehicleEngine":"2.4 lL 4 Cylinders",
+      "vehicleTransmission":"automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"49528"},
+      "bodyType":'Sedan',
+      "url":'\/vehicle\/22093726\/2020-acura-tlx-in-san-antonio-tx\/19UUB1F58LA015561',
+      "fuelEfficiency":"City 23, Highway: 33",
+      "sku":"167910A",
+      "description":"Preowned 2020 ACURA TLX w\/Technology Pkg 2.4 lL 4 Cylinders for sale -  $24,641 - 49,528 miles - listed by Mercedes-Benz of San Antonio in San Antonio, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"5J8TC1H64ML009258",
+    "name":"Preowned 2021 ACURA RDX A-Spec Package",
+    "mpn":"Preowned 2021 ACURA RDX A-Spec Package",
+    "image":"https:\/\/cdn.getauto.com\/photos\/0\/241550\/1c\/5J8TC1H64ML009258-1c.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 34911 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/21976566\/2021-acura-rdx-in-san-antonio-tx\/5J8TC1H64ML009258,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Audi Dominion",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"RDX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2021 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"2.0L 4 Cylinders",
+      "vehicleTransmission":"10-Speed Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"37885"},
+      "bodyType":'Full Size SUV',
+      "url":'\/vehicle\/21976566\/2021-acura-rdx-in-san-antonio-tx\/5J8TC1H64ML009258',
+      "fuelEfficiency":"City 22, Highway: 27",
+      "sku":"ML009258",
+      "description":"Preowned 2021 ACURA RDX A-Spec Package 2.0L 4 Cylinders for sale -  $34,911 - 37,885 miles - listed by Audi Dominion in San Antonio, TX"
+   },
+  }
+  
+
+  {
+    "@context":"http://schema.org/",
+    "@type":"Car",
+    "vehicleIdentificationNumber":"19UUB5F58PA001611",
+    "name":"Preowned 2023 ACURA TLX w\/A-Spec",
+    "mpn":"Preowned 2023 ACURA TLX w\/A-Spec",
+    "image":"https:\/\/cdn.getauto.com\/photos\/0\/241550\/1c\/19UUB5F58PA001611-1c.jpg",
+    "offers":{"@type":"Offer",
+      "priceCurrency":"USD",
+      "price": 41552 ,
+      "itemCondition":'Preowned',
+      "availability":"http://schema.org/InStock",
+      "url":'\/vehicle\/21536115\/2023-acura-tlx-in-san-antonio-tx\/19UUB5F58PA001611,',
+      "seller":{
+        "@context":"http://schema.org/",
+        "@type":"AutoDealer","name":"Audi Dominion",
+        "address":{"@context":"http://schema.org/","@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX"}
+      },
+      "brand":{"@context":"http://schema.org/","@type":"Brand","name":"ACURA"},
+      "model":"TLX",
+      "manufacturer":{"@context":"http://schema.org/","@type":"Organization","name":"ACURA"},
+      "productionDate": 2023 ,
+      "driveWheelConfiguration":"FWD",
+      "vehicleEngine":"2.0L 2.0L Turbo I4 272hp 280ft Cylinders",
+      "vehicleTransmission":"10-Speed Shiftable Automatic",
+      "mileageFromOdometer":{"@type":"QuantitativeValue","value":"1611"},
+      "bodyType":'Sedan',
+      "url":'\/vehicle\/21536115\/2023-acura-tlx-in-san-antonio-tx\/19UUB5F58PA001611',
+      "fuelEfficiency":"City 22, Highway: 30",
+      "sku":"PA001611",
+      "description":"Preowned 2023 ACURA TLX w\/A-Spec 2.0L 2.0L Turbo I4 272hp 280ft Cylinders for sale -  $41,552 - 1,611 miles - listed by Audi Dominion in San Antonio, TX"
+   },
+  }
+  
+
+  "offers":{"@context":"https://schema.org","@type":"AggregateOffer","offerCount": 15 ,"priceCurrency":"USD"}
+
+</script>
+</div>

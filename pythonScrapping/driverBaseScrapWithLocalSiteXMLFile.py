@@ -48,6 +48,12 @@ targated_url  = base_url+addition_url+location_url
 
 web = requests.get(targated_url)
 soup = BeautifulSoup(web.content, 'html.parser')
+
+listing_count = soup.find('strong', id= "listing_count").text
+with open(f"test03.txt", "w", encoding="utf-8") as file:
+        file.write(str(soup))
+print(listing_count)
+sys.exit()
 table = soup.find_all('tr', class_ ="inventory_row")
 
 result_list = []
