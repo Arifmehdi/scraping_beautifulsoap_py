@@ -31,16 +31,45 @@ div_elements = driver.find_elements(By.CLASS_NAME, 'dealer-result-inventory')
 inventory_list = []
 # Iterate over each div element
 for div_element in div_elements:
+        # Click the button in each div element
     anchor_tag = div_element.get_attribute('outerHTML')
+    # button = div_element.find_element(By.TAG_NAME, 'a')
+    # button.click()
 
-        # Use BeautifulSoup to parse the HTML
-    soup = BeautifulSoup(anchor_tag, 'html.parser')
-    # Find the anchor tag within the div element
-    anchor_tag_a = soup.find_all('a')
-    for anchor in anchor_tag_a:
-        full_url = base_url + anchor.get('href')
-        inventory_list.append(full_url)
-        # print(anchor_tag_a)
+        # Click the button in each div element
+    button = div_element.find_element(By.TAG_NAME, 'a')
+
+    # Wait for the button to be clickable before clicking
+    wait.until(EC.element_to_be_clickable((By.TAG_NAME, 'a')))
+    button.click()
+
+    # Switch to the newly opened tab
+    wait.until(driver.switch_to.window(driver.window_handles[-1]))
+    wait.until(driver.title)
+    sys.exit()
+    # Print the title of the current page
+    print(f"Title: {driver.title}")
+
+    # Get the URL of the current page
+    current_url = driver.current_url
+    print(f"Current URL: {current_url}")
+
+    # Close the current tab
+    driver.close()
+    sys.exit()
+    # Switch back to the main tab
+    driver.switch_to.window(driver.window_handles[0])
+
+    # anchor_tag = div_element.get_attribute('outerHTML')
+
+    #     # Use BeautifulSoup to parse the HTML
+    # soup = BeautifulSoup(anchor_tag, 'html.parser')
+    # # Find the anchor tag within the div element
+    # anchor_tag_a = soup.find_all('a')
+    # for anchor in anchor_tag_a:
+    #     full_url = base_url + anchor.get('href')
+    #     inventory_list.append(full_url)
+    #     # print(anchor_tag_a)
 
 # for inventory_specific_dealer in inventory_list:
     # driver.get(inventory_specific_dealer)
