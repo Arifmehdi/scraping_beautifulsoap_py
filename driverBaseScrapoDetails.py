@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from urllib.parse import unquote
 import os
-import pandas as pd
+# import pandas as pd
 
 # # static route for check without hit 
 # url = "https://driverbase.com/inventory/location/dallas-tx"
