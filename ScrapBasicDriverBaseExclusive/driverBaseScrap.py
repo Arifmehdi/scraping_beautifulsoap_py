@@ -13,10 +13,10 @@ from mysql_connector import get_mysql_connection
 ############### read sitemap and check target email exist or not and result is true so go for next
 base_url = "https://driverbase.com"
 addition_url = "/inventory/search/"
-# location_url  = "palo-pinto-tx/acura"
 # addition_url = "inventory/location/"
 # location_url  = "sanfrancisco-ca"
-location_url  = "fort-worth-tx/acura"
+location_url  = "palo-pinto-tx/acura"
+# location_url  = "fort-worth-tx/acura"
 
 directory_location = location_url.replace('/','_').replace('-', '_')
 inventory_location_obj = location_url.split('/')
