@@ -1,61 +1,61 @@
-dealer_id,city,make,dealer_name,dealer_address,details_url,img_url,title,type,price,miles,engine_details,transmission,mileage,vin,stock,star,created_at
-24013000,palo-pinto-tx,acura,Honda of Weatherford,"Weatherford, TX
+dealer_id,city,make,dealer_name,dealer_address,details_url,img_url,local_img_url,title,type,price,miles,engine_details,transmission,mileage,vin,stock,star,created_at
+24013100,palo-pinto-tx,acura,Honda of Weatherford,"Weatherford, TX
 
     
-(28.16 miles)",https://driverbase.com/vehicle/20551864/2016-acura-tlx-in-weatherford-tx/19UUB2F55GA001452,https://content.homenetiol.com/2002457/2170371/640x480/stock_images/5/2016ACC180001_640/2016ACC180001_640_01.jpg,2016 ACURA TLX V6 Tech,Preowned,17986,"104,280", 3.5 L 6 Cylinders, Automatic  FWD," MPG: City 21, Highway: 34",19UUB2F55GA001452,HG2221,5,2024-01-30 17:06:10.989500
-24013000,palo-pinto-tx,acura,Honda of Weatherford,"Weatherford, TX
+(28.16 miles)",https://driverbase.com/vehicle/21805132/2019-acura-rdx-in-weatherford-tx/5J8TC2H34KL034833,https://content.homenetiol.com/2002457/2170371/640x480/3cb0d96288af4a14b90927fcf9e4084d.jpg,palo_pinto_tx_acura/2019_ACURA_RDX_5J8TC2H34KL034833HP2288A.jpg,2019 ACURA RDX ,Preowned,29990,"37,141", 2.0 lL 4 Cylinders, automatic  awd," MPG: City 21, Highway: 27",5J8TC2H34KL034833,HP2288A,5,2024-01-31 16:08:35.758832
+24013100,palo-pinto-tx,acura,Honda of Weatherford,"Weatherford, TX
 
     
-(28.16 miles)",https://driverbase.com/vehicle/21805132/2019-acura-rdx-in-weatherford-tx/5J8TC2H34KL034833,https://content.homenetiol.com/2002457/2170371/640x480/3cb0d96288af4a14b90927fcf9e4084d.jpg,2019 ACURA RDX ,Preowned,29990,"37,141", 2.0 lL 4 Cylinders, automatic  awd," MPG: City 21, Highway: 27",5J8TC2H34KL034833,HP2288A,5,2024-01-30 17:06:21.032033
-24013001,palo-pinto-tx,acura,James Wood Chevrolet Buick GMC,"Decatur, TX
+(28.16 miles)",https://driverbase.com/vehicle/20551864/2016-acura-tlx-in-weatherford-tx/19UUB2F55GA001452,https://content.homenetiol.com/2002457/2170371/640x480/stock_images/5/2016ACC180001_640/2016ACC180001_640_01.jpg,palo_pinto_tx_acura/2016_ACURA_TLX_V6_Tech19UUB2F55GA001452HG2221.jpg,2016 ACURA TLX V6 Tech,Preowned,17986,"104,280", 3.5 L 6 Cylinders, Automatic  FWD," MPG: City 21, Highway: 34",19UUB2F55GA001452,HG2221,5,2024-01-31 16:08:49.268402
+24013101,palo-pinto-tx,acura,James Wood Chevrolet Buick GMC,"Decatur, TX
 
     
-(54.49 miles)",https://driverbase.com/vehicle/17988748/2019-acura-mdx-in-decatur-tx/5J8YD4H85KL010745,https://cdn.getauto.com/photos/2/4012/1c/5J8YD4H85KL010745-1c.jpg,2019 ACURA MDX SH-AWD w/Advance,Preowned,30977,"62,404", 3.5L 6 Cylinders, 9-Speed Shiftable Automatic  AWD," MPG: City 19, Highway: 26",5J8YD4H85KL010745,131128A1,5,2024-01-30 17:06:31.079580
-24013001,palo-pinto-tx,acura,Karl Klement Ford,"Decatur, TX
+(54.49 miles)",https://driverbase.com/vehicle/17988748/2019-acura-mdx-in-decatur-tx/5J8YD4H85KL010745,https://cdn.getauto.com/photos/2/4012/1c/5J8YD4H85KL010745-1c.jpg,palo_pinto_tx_acura/2019_ACURA_MDX_SH-AWD_w_Advance5J8YD4H85KL010745131128A1.jpg,2019 ACURA MDX SH-AWD w/Advance,Preowned,30977,"62,404", 3.5L 6 Cylinders, 9-Speed Shiftable Automatic  AWD," MPG: City 19, Highway: 26",5J8YD4H85KL010745,131128A1,5,2024-01-31 16:09:01.084352
+24013101,palo-pinto-tx,acura,Karl Klement Ford,"Decatur, TX
 
     
-(54.53 miles)",https://driverbase.com/vehicle/20417357/2022-acura-rdx-in-decatur-tx/5J8TC2H70NL014277,https://cdn.getauto.com/photos/1/153841/1c/5J8TC2H70NL014277-1c.jpg,2022 ACURA RDX w/Advance Package,Preowned,39995,"19,046", 2.0L 4 Cylinders, Automatic  AWD," MPG: City 21, Highway: 27",5J8TC2H70NL014277,L014277U,5,2024-01-30 17:06:41.105681
-24013001,palo-pinto-tx,acura,Freeman Toyota,"Hurst, TX
+(54.53 miles)",https://driverbase.com/vehicle/20417357/2022-acura-rdx-in-decatur-tx/5J8TC2H70NL014277,https://cdn.getauto.com/photos/1/153841/1c/5J8TC2H70NL014277-1c.jpg,palo_pinto_tx_acura/2022_ACURA_RDX_w_Advance_Package5J8TC2H70NL014277L014277U.jpg,2022 ACURA RDX w/Advance Package,Preowned,39995,"19,046", 2.0L 4 Cylinders, Automatic  AWD," MPG: City 21, Highway: 27",5J8TC2H70NL014277,L014277U,5,2024-01-31 16:09:12.944781
+24013101,palo-pinto-tx,acura,Freeman Toyota,"Hurst, TX
 
     
-(63.82 miles)",https://driverbase.com/vehicle/22044742/2020-acura-ilx-in-hurst-tx/19UDE2F79LA005278,https://content.homenetiol.com/2002457/2170371/640x480/9307056c75c1468ba01e5d556be48855.jpg,2020 ACURA ILX w/Premium Pkg,Preowned,21288,"67,742", 2.4 lL 4 Cylinders, automatic  fwd," MPG: City 24, Highway: 34",19UDE2F79LA005278,LA005278,5,2024-01-30 17:06:51.153734
-24013001,palo-pinto-tx,acura,Classic Chevrolet,"Grapevine, TX
+(63.82 miles)",https://driverbase.com/vehicle/22044742/2020-acura-ilx-in-hurst-tx/19UDE2F79LA005278,https://content.homenetiol.com/2002457/2170371/640x480/9307056c75c1468ba01e5d556be48855.jpg,palo_pinto_tx_acura/2020_ACURA_ILX_w_Premium_Pkg19UDE2F79LA005278LA005278.jpg,2020 ACURA ILX w/Premium Pkg,Preowned,21288,"67,742", 2.4 lL 4 Cylinders, automatic  fwd," MPG: City 24, Highway: 34",19UDE2F79LA005278,LA005278,5,2024-01-31 16:09:24.898938
+24013101,palo-pinto-tx,acura,Classic Chevrolet,"Grapevine, TX
 
     
-(71.77 miles)",https://driverbase.com/vehicle/22162682/2020-acura-rdx-in-grapevine-tx/5J8TC1H39LL022009,https://cdn.getauto.com/photos/0/17300/1c/5J8TC1H39LL022009-1c.jpg,2020 ACURA RDX Base,Preowned,29000,"24,210", 2.0L 4 Cylinders, 10-Speed Shiftable Automatic  FWD," MPG: City 22, Highway: 28",5J8TC1H39LL022009,LL022009,5,2024-01-30 17:07:01.202340
-24013000,palo-pinto-tx,acura,Classic Chevrolet,"Grapevine, TX
+(71.77 miles)",https://driverbase.com/vehicle/21871513/2017-acura-rlx-in-grapevine-tx/JH4KC1F58HC000877,https://cdn.getauto.com/photos/0/17300/1c/JH4KC1F58HC000877-1c.jpg,palo_pinto_tx_acura/2017_ACURA_RLX_w_TechJH4KC1F58HC000877HC000877.jpg,2017 ACURA RLX w/Tech,Preowned,27000,"30,583", 3.5L 6 Cylinders, 6-Speed Shiftable Automatic  FWD," MPG: City 20, Highway: 30",JH4KC1F58HC000877,HC000877,5,2024-01-31 16:09:37.962675
+24013100,palo-pinto-tx,acura,Classic Chevrolet,"Grapevine, TX
 
     
-(71.77 miles)",https://driverbase.com/vehicle/21871513/2017-acura-rlx-in-grapevine-tx/JH4KC1F58HC000877,https://cdn.getauto.com/photos/0/17300/1c/JH4KC1F58HC000877-1c.jpg,2017 ACURA RLX w/Tech,Preowned,27000,"30,583", 3.5L 6 Cylinders, 6-Speed Shiftable Automatic  FWD," MPG: City 20, Highway: 30",JH4KC1F58HC000877,HC000877,5,2024-01-30 17:07:11.242422
-24013000,palo-pinto-tx,acura,Classic Chevrolet,"Grapevine, TX
+(71.77 miles)",https://driverbase.com/vehicle/22162682/2020-acura-rdx-in-grapevine-tx/5J8TC1H39LL022009,https://cdn.getauto.com/photos/0/17300/1c/5J8TC1H39LL022009-1c.jpg,palo_pinto_tx_acura/2020_ACURA_RDX_Base5J8TC1H39LL022009LL022009.jpg,2020 ACURA RDX Base,Preowned,29000,"24,210", 2.0L 4 Cylinders, 10-Speed Shiftable Automatic  FWD," MPG: City 22, Highway: 28",5J8TC1H39LL022009,LL022009,5,2024-01-31 16:09:51.774759
+24013100,palo-pinto-tx,acura,Classic Chevrolet,"Grapevine, TX
 
     
-(71.77 miles)",https://driverbase.com/vehicle/22301520/2018-acura-rdx-in-grapevine-tx/5J8TB3H37JL011439,https://cdn.getauto.com/photos/0/17300/1c/5J8TB3H37JL011439-1c.jpg,2018 ACURA RDX Base,Preowned,20000,"67,280", 3.5L 6 Cylinders, 6-Speed Shiftable Automatic  FWD," MPG: City 20, Highway: 28",5J8TB3H37JL011439,JL011439,5,2024-01-30 17:07:21.298801
-24013001,palo-pinto-tx,acura,James Wood Buick GMC Denton,"Denton, TX
+(71.77 miles)",https://driverbase.com/vehicle/22301520/2018-acura-rdx-in-grapevine-tx/5J8TB3H37JL011439,https://cdn.getauto.com/photos/0/17300/1c/5J8TB3H37JL011439-1c.jpg,palo_pinto_tx_acura/2018_ACURA_RDX_Base5J8TB3H37JL011439JL011439.jpg,2018 ACURA RDX Base,Preowned,20000,"67,280", 3.5L 6 Cylinders, 6-Speed Shiftable Automatic  FWD," MPG: City 20, Highway: 28",5J8TB3H37JL011439,JL011439,5,2024-01-31 16:10:03.477731
+24013101,palo-pinto-tx,acura,James Wood Buick GMC Denton,"Denton, TX
 
     
-(77.31 miles)",https://driverbase.com/vehicle/21684563/2020-acura-rdx-in-denton-tx/5J8TC1H60LL003357,https://content.homenetiol.com/2002457/2170371/640x480/fb909dddf8f44d37a7d9bc3771fd4360.jpg,2020 ACURA RDX w/A-Spec Pkg,Preowned,30977,"33,374", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 22, Highway: 27",5J8TC1H60LL003357,232933A1,5,2024-01-30 17:07:31.380147
-24013000,palo-pinto-tx,acura,James Wood Buick GMC Denton,"Denton, TX
+(77.31 miles)",https://driverbase.com/vehicle/21684563/2020-acura-rdx-in-denton-tx/5J8TC1H60LL003357,https://content.homenetiol.com/2002457/2170371/640x480/fb909dddf8f44d37a7d9bc3771fd4360.jpg,palo_pinto_tx_acura/2020_ACURA_RDX_w_A-Spec_Pkg5J8TC1H60LL003357232933A1.jpg,2020 ACURA RDX w/A-Spec Pkg,Preowned,30977,"33,374", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 22, Highway: 27",5J8TC1H60LL003357,232933A1,5,2024-01-31 16:10:15.603768
+24013100,palo-pinto-tx,acura,James Wood Buick GMC Denton,"Denton, TX
 
     
-(77.31 miles)",https://driverbase.com/vehicle/21982451/2022-acura-mdx-type-s-in-denton-tx/5J8YD8H87NL005218,https://content.homenetiol.com/2002457/2170371/640x480/b1ccd645d46142728ef8dbc0988ed775.jpg,2022 ACURA MDX Type S Type S w/Advance Package,Preowned,55977,"30,473", 3.0 L 6 Cylinders, Automatic  AWD," MPG: City 17, Highway: 21",5J8YD8H87NL005218,241248A1,5,2024-01-30 17:07:41.419316
-24013001,palo-pinto-tx,acura,Eckert Hyundai Pre-Owned,"Denton, TX
+(77.31 miles)",https://driverbase.com/vehicle/21982451/2022-acura-mdx-type-s-in-denton-tx/5J8YD8H87NL005218,https://content.homenetiol.com/2002457/2170371/640x480/b1ccd645d46142728ef8dbc0988ed775.jpg,palo_pinto_tx_acura/2022_ACURA_MDX_Type_S_Type_S_w_Advance_Package5J8YD8H87NL005218241248A1.jpg,2022 ACURA MDX Type S Type S w/Advance Package,Preowned,55977,"30,473", 3.0 L 6 Cylinders, Automatic  AWD," MPG: City 17, Highway: 21",5J8YD8H87NL005218,241248A1,5,2024-01-31 16:10:27.613162
+24013101,palo-pinto-tx,acura,Eckert Hyundai Pre-Owned,"Denton, TX
 
     
-(77.35 miles)",https://driverbase.com/vehicle/21501219/2021-acura-tlx-in-denton-tx/19UUB5F5XMA005154,https://cdn.getauto.com/photos/1/84171/1c/19UUB5F5XMA005154-1c.jpg,2021 ACURA TLX w/A-Spec,Preowned,30312,"44,118", 0.0L 2.0L Turbo I4 272hp 280ft Cylinders, 10-Speed Shiftable Automatic  FWD," MPG: City , Highway: ",19UUB5F5XMA005154,6067A,5,2024-01-30 17:07:51.463619
-24013001,palo-pinto-tx,acura,Freeman Hyundai Mazda Service,"Irving, TX
+(77.35 miles)",https://driverbase.com/vehicle/21501219/2021-acura-tlx-in-denton-tx/19UUB5F5XMA005154,https://cdn.getauto.com/photos/1/84171/1c/19UUB5F5XMA005154-1c.jpg,palo_pinto_tx_acura/2021_ACURA_TLX_w_A-Spec19UUB5F5XMA0051546067A.jpg,2021 ACURA TLX w/A-Spec,Preowned,30312,"44,118", 0.0L 2.0L Turbo I4 272hp 280ft Cylinders, 10-Speed Shiftable Automatic  FWD," MPG: City , Highway: ",19UUB5F5XMA005154,6067A,5,2024-01-31 16:10:39.501748
+24013101,palo-pinto-tx,acura,Freeman Hyundai Mazda Service,"Irving, TX
 
    
-(80.47 miles)",https://driverbase.com/vehicle/22025390/2022-acura-rdx-in-irving-tx/5J8TC1H63NL005252,https://content.homenetiol.com/2002457/2170371/640x480/4bc1aabaa1a5492f83c4f704e885ed80.jpg,2022 ACURA RDX w/A-Spec Package,Preowned,37950,"24,884", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 22, Highway: 27",5J8TC1H63NL005252,NL005252A,4,2024-01-30 17:08:01.508126
-24013000,palo-pinto-tx,acura,Freeman Hyundai Mazda Service,"Irving, TX
+(80.47 miles)",https://driverbase.com/vehicle/21994429/2015-acura-ilx-in-irving-tx/19VDE1F59FE006352,https://content.homenetiol.com/2002457/2170371/640x480/87de912bdf4d4264980797350236bb37.jpg,palo_pinto_tx_acura/2015_ACURA_ILX_Premium_Pkg19VDE1F59FE006352FE006352A.jpg,2015 ACURA ILX Premium Pkg,Preowned,14700,"84,939", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 24, Highway: 35",19VDE1F59FE006352,FE006352A,4,2024-01-31 16:10:53.312452
+24013100,palo-pinto-tx,acura,Freeman Hyundai Mazda Service,"Irving, TX
 
    
-(80.47 miles)",https://driverbase.com/vehicle/21987025/2022-acura-rdx-in-irving-tx/5J8TC1H34NL000602,https://content.homenetiol.com/2002457/2170371/640x480/90d7836d62fc4e0196e356f743189110.jpg,2022 ACURA RDX Base,Preowned,30350,"40,258", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 22, Highway: 28",5J8TC1H34NL000602,NL000602A,4,2024-01-30 17:08:11.560996
-24013000,palo-pinto-tx,acura,Freeman Hyundai Mazda Service,"Irving, TX
+(80.47 miles)",https://driverbase.com/vehicle/21987025/2022-acura-rdx-in-irving-tx/5J8TC1H34NL000602,https://content.homenetiol.com/2002457/2170371/640x480/90d7836d62fc4e0196e356f743189110.jpg,palo_pinto_tx_acura/2022_ACURA_RDX_Base5J8TC1H34NL000602NL000602A.jpg,2022 ACURA RDX Base,Preowned,30350,"40,258", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 22, Highway: 28",5J8TC1H34NL000602,NL000602A,4,2024-01-31 16:11:05.340114
+24013100,palo-pinto-tx,acura,Freeman Hyundai Mazda Service,"Irving, TX
 
    
-(80.47 miles)",https://driverbase.com/vehicle/21994429/2015-acura-ilx-in-irving-tx/19VDE1F59FE006352,https://content.homenetiol.com/2002457/2170371/640x480/87de912bdf4d4264980797350236bb37.jpg,2015 ACURA ILX Premium Pkg,Preowned,14700,"84,939", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 24, Highway: 35",19VDE1F59FE006352,FE006352A,4,2024-01-30 17:08:21.594509
-24013001,palo-pinto-tx,acura,South Toyota,"Dallas, TX
+(80.47 miles)",https://driverbase.com/vehicle/22025390/2022-acura-rdx-in-irving-tx/5J8TC1H63NL005252,https://content.homenetiol.com/2002457/2170371/640x480/4bc1aabaa1a5492f83c4f704e885ed80.jpg,palo_pinto_tx_acura/2022_ACURA_RDX_w_A-Spec_Package5J8TC1H63NL005252NL005252A.jpg,2022 ACURA RDX w/A-Spec Package,Preowned,37950,"24,884", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 22, Highway: 27",5J8TC1H63NL005252,NL005252A,4,2024-01-31 16:11:17.155237
+24013101,palo-pinto-tx,acura,South Toyota,"Dallas, TX
 
     
-(83.70 miles)",https://driverbase.com/vehicle/21894182/2012-acura-tl-in-dallas-tx/19UUA8F20CA037149,https://content.homenetiol.com/2002457/2170371/640x480/stock_images/2/14234.jpg,2012 ACURA TL Auto,Preowned,8992,"129,016", 3.5L 6 Cylinders, Automatic  FWD," MPG: City 20, Highway: 29",19UUA8F20CA037149,T037149,5,2024-01-30 17:08:31.631025
+(83.70 miles)",https://driverbase.com/vehicle/21088879/2020-acura-mdx-in-dallas-tx/5J8YD3H37LL006115,https://content.homenetiol.com/2002457/2170371/640x480/stock_images/5/2020ACS11_640/2020ACS110085_640_01.jpg,palo_pinto_tx_acura/2020_ACURA_MDX_3.5L5J8YD3H37LL006115T006115.jpg,2020 ACURA MDX 3.5L,Preowned,28593,"56,072", 3.5 L 6 Cylinders, Automatic  FWD," MPG: City 20, Highway: 27",5J8YD3H37LL006115,T006115,5,2024-01-31 16:11:28.619145

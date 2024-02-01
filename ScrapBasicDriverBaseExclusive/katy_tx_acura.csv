@@ -1,0 +1,61 @@
+dealer_id,city,make,dealer_name,dealer_address,details_url,img_url,local_img_url,title,type,price,miles,engine_details,transmission,mileage,vin,stock,star,created_at
+24013100,katy-tx,acura,West Houston Hyundai,"Houston, TX
+
+    
+(5.27 miles)",https://driverbase.com/vehicle/22097452/2016-acura-mdx-in-houston-tx/5FRYD3H40GB008142,https://cdn.getauto.com/photos/1/161671/1c/5FRYD3H40GB008142-1c.jpg,katy_tx_acura/2016_ACURA_MDX_3.5L5FRYD3H40GB008142GB008142G.jpg,2016 ACURA MDX 3.5L,Preowned,21522,"88,432", 3.5L 6 Cylinders, 9-Speed Automatic  FWD," MPG: City 19, Highway: 27",5FRYD3H40GB008142,GB008142G,5,2024-01-31 17:42:07.500816
+24013101,katy-tx,acura,Mac Haik Chevrolet,"Houston, TX
+
+    
+(10.00 miles)",https://driverbase.com/vehicle/22312954/2019-acura-tlx-in-houston-tx/19UUB3F86KA002358,https://content.homenetiol.com/2002457/2170371/640x480/f77ce40a27114a3eb2f29d858317e305.jpg,katy_tx_acura/2019_ACURA_TLX_with_Advance_Pkg19UUB3F86KA002358P13871.jpg,2019 ACURA TLX with Advance Pkg,Preowned,30393,"15,982", 3.5 L 6 Cylinders, Automatic  AWD," MPG: City 20, Highway: 29",19UUB3F86KA002358,P13871,5,2024-01-31 17:42:20.655853
+24013100,katy-tx,acura,Mac Haik Chevrolet,"Houston, TX
+
+    
+(10.00 miles)",https://driverbase.com/vehicle/22144182/2015-acura-tlx-in-houston-tx/19UUB1F53FA005458,https://content.homenetiol.com/2002457/2170371/640x480/ea99a7d062ff4d96a81044d6382ece2e.jpg,katy_tx_acura/2015_ACURA_TLX_TECH19UUB1F53FA005458241194B.jpg,2015 ACURA TLX TECH,Preowned,12994,"126,814", 2.4 lL 4 Cylinders, automatic  fwd," MPG: City 24, Highway: 35",19UUB1F53FA005458,241194B,5,2024-01-31 17:42:32.909587
+24013100,katy-tx,acura,Mac Haik Chevrolet,"Houston, TX
+
+    
+(10.00 miles)",https://driverbase.com/vehicle/21892622/2023-acura-rdx-in-houston-tx/5J8TC2H87PL007287,https://content.homenetiol.com/2002457/2170371/640x480/ab6d188c316e4de599d60958124d5d5c.jpg,katy_tx_acura/2023_ACURA_RDX_with_A-Spec_Advance_Package5J8TC2H87PL007287D13729.jpg,2023 ACURA RDX with A-Spec Advance Package,Preowned,42497,"14,076", 2.0 L 4 Cylinders, Automatic  AWD," MPG: City 21, Highway: 26",5J8TC2H87PL007287,D13729,5,2024-01-31 17:42:44.782805
+24013101,katy-tx,acura,West Point Lincoln,"Houston, TX
+
+    
+(10.07 miles)",https://driverbase.com/vehicle/22210813/2020-acura-rlx-in-houston-tx/JH4KC1F51LC000339,https://cdn.getauto.com/photos/3/234213/1c/JH4KC1F51LC000339-1c.jpg,katy_tx_acura/2020_ACURA_RLX_w_TechJH4KC1F51LC0003393N267C.jpg,2020 ACURA RLX w/Tech,Preowned,30991,"37,670", 3.5L 6 Cylinders, 10-Speed Shiftable Automatic  FWD," MPG: City 20, Highway: 29",JH4KC1F51LC000339,3N267C,5,2024-01-31 17:42:56.551663
+24013101,katy-tx,acura,Northwest Hyundai,"Houston, TX
+
+    
+(10.25 miles)",https://driverbase.com/vehicle/21381441/2017-acura-mdx-in-houston-tx/5FRYD3H57HB000873,https://cdn.getauto.com/photos/3/244743/1c/5FRYD3H57HB000873-1c.jpg,katy_tx_acura/2017_ACURA_MDX_3.5L_w_Technology_Package5FRYD3H57HB000873HB000873.jpg,2017 ACURA MDX 3.5L w/Technology Package,Preowned,20394,"116,875", 3.5L 6 Cylinders, 9-Speed Shiftable Automatic  FWD," MPG: City 19, Highway: 27",5FRYD3H57HB000873,HB000873,5,2024-01-31 17:43:08.364691
+24013100,katy-tx,acura,Northwest Hyundai,"Houston, TX
+
+    
+(10.25 miles)",https://driverbase.com/vehicle/22336438/2015-acura-tlx-in-houston-tx/19UUB2F53FA019009,https://cdn.getauto.com/photos/3/244743/1c/19UUB2F53FA019009-1c.jpg,katy_tx_acura/2015_ACURA_TLX_V6_Tech19UUB2F53FA019009FA019009.jpg,2015 ACURA TLX V6 Tech,Preowned,19891,"83,416", 3.5L 6 Cylinders, 9-Speed Shiftable Automatic  FWD," MPG: City 21, Highway: 34",19UUB2F53FA019009,FA019009,5,2024-01-31 17:43:23.159868
+24013101,katy-tx,acura,AutoSavvy Houston,"Houston, TX
+
+    
+(10.78 miles)",https://driverbase.com/vehicle/16344724/2020-acura-rdx-in-houston-tx/5J8TC1H62LL004803,https://cdn.getauto.com/photos/3/244253/1c/5J8TC1H62LL004803-1c.jpg,katy_tx_acura/2020_ACURA_RDX_w_A-SPEC5J8TC1H62LL00480355689.jpg,2020 ACURA RDX w/A-SPEC,Preowned,31000,"29,382", 2.0L 2.0L Turbo I4 272hp 280ft Cylinders, 10-Speed Shiftable Automatic  FWD," MPG: City 22, Highway: 27",5J8TC1H62LL004803,55689,5,2024-01-31 17:43:35.611865
+24013100,katy-tx,acura,AutoSavvy Houston,"Houston, TX
+
+    
+(10.78 miles)",https://driverbase.com/vehicle/22129759/2018-acura-rdx-in-houston-tx/5J8TB3H54JL004224,https://cdn.getauto.com/photos/3/244253/1c/5J8TB3H54JL004224-1c.jpg,katy_tx_acura/2018_ACURA_RDX_w_Tech_w_AcuraWatch5J8TB3H54JL00422474085.jpg,2018 ACURA RDX w/Tech w/AcuraWatch,Preowned,19000,"59,341", 3.5L 3.5L V6 279hp 252ft. lbs. Cylinders, 6-Speed Shiftable Automatic  FWD," MPG: City 20, Highway: 28",5J8TB3H54JL004224,74085,5,2024-01-31 17:43:47.490506
+24013101,katy-tx,acura,Mac Haik Ford,"Houston, TX
+
+   
+(12.27 miles)",https://driverbase.com/vehicle/22013743/2019-acura-rdx-in-houston-tx/5J8TC1H67KL011857,https://content.homenetiol.com/2002457/2170371/640x480/b7aed52675dc41079ecf535e780126fc.jpg,katy_tx_acura/2019_ACURA_RDX_w_A-Spec_Pkg5J8TC1H67KL011857B14323.jpg,2019 ACURA RDX w/A-Spec Pkg,Preowned,24432,"89,062", 2.0 L 4 Cylinders, Automatic  FWD," MPG: City 22, Highway: 27",5J8TC1H67KL011857,B14323,4,2024-01-31 17:43:59.554539
+24013100,katy-tx,acura,Mac Haik Ford,"Houston, TX
+
+   
+(12.27 miles)",https://driverbase.com/vehicle/22314818/2019-acura-tlx-in-houston-tx/19UUB2F46KA001850,https://content.homenetiol.com/2002457/2170371/640x480/fcc35d7429ce42a4aa98e242fdc42162.jpg,katy_tx_acura/2019_ACURA_TLX_with_Technology_Pkg19UUB2F46KA001850PP3231A.jpg,2019 ACURA TLX with Technology Pkg,Preowned,22987,"75,471", 3.5 L 6 Cylinders, Automatic  FWD," MPG: City 20, Highway: 31",19UUB2F46KA001850,PP3231A,4,2024-01-31 17:44:11.525672
+24013101,katy-tx,acura,Gillman Chrysler Dodge Ram,"Houston, TX
+
+    
+(16.01 miles)",https://driverbase.com/vehicle/20400257/2017-acura-mdx-in-houston-tx/5FRYD3H50HB003937,https://cdn.getauto.com/photos/7/244587/1c/5FRYD3H50HB003937-1c.jpg,katy_tx_acura/2017_ACURA_MDX_w_Tech5FRYD3H50HB003937J220221B.jpg,2017 ACURA MDX w/Tech,Preowned,25991,"61,742", 3.5L 6 Cylinders, Automatic  FWD," MPG: City 19, Highway: 27",5FRYD3H50HB003937,J220221B,5,2024-01-31 17:44:23.281727
+24013100,katy-tx,acura,Gillman Chrysler Dodge Ram,"Houston, TX
+
+    
+(16.01 miles)",https://driverbase.com/vehicle/18425478/2019-acura-rdx-in-houston-tx/5J8TC1H5XKL016865,https://cdn.getauto.com/photos/7/244587/1c/5J8TC1H5XKL016865-1c.jpg,katy_tx_acura/2019_ACURA_RDX_w_Tech5J8TC1H5XKL016865J220203A.jpg,2019 ACURA RDX w/Tech,Preowned,31984,"30,290", 2.0L 2.0L Turbo I4 272hp 280ft Cylinders, 10-Speed Shiftable Automatic  FWD," MPG: City 22, Highway: 28",5J8TC1H5XKL016865,J220203A,5,2024-01-31 17:44:35.097681
+24013100,katy-tx,acura,Gillman Chrysler Dodge Ram,"Houston, TX
+
+    
+(16.01 miles)",https://driverbase.com/vehicle/15770203/2015-acura-mdx-in-houston-tx/5FRYD4H42FB032432,https://cdn.getauto.com/photos/7/244587/1c/5FRYD4H42FB032432-1c.jpg,katy_tx_acura/2015_ACURA_MDX_SH-AWD_w_Tech5FRYD4H42FB032432J220592A.jpg,2015 ACURA MDX SH-AWD w/Tech,Preowned,15471,"118,587", 3.5L 6 Cylinders, Automatic  AWD," MPG: City 18, Highway: 27",5FRYD4H42FB032432,J220592A,5,2024-01-31 17:44:46.732241
+24013100,katy-tx,acura,Gillman Chrysler Dodge Ram,"Houston, TX
+
+    
+(16.01 miles)",https://driverbase.com/vehicle/15630051/2017-acura-mdx-in-houston-tx/5FRYD3H82HB013976,https://cdn.getauto.com/photos/7/244587/1c/5FRYD3H82HB013976-1c.jpg,katy_tx_acura/2017_ACURA_MDX_w_Advance5FRYD3H82HB013976J221073B.jpg,2017 ACURA MDX w/Advance,Preowned,35991,"13,095", 3.5L 6 Cylinders, Automatic  FWD," MPG: City 19, Highway: 27",5FRYD3H82HB013976,J221073B,5,2024-01-31 17:44:58.458806
